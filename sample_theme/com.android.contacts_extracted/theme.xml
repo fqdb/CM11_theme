@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hwthemes>
+        <!-- 拨号时高亮的列表字体颜色符 -->
+        <color name="people_app_theme_color">#ff28c0c6</color>
+        <!-- 搜索弹出的检索框中的字母颜色 -->
+        <color name="dialer_search_highlightcolor">#ff28c0c6</color>
+        <!-- 拨号盘点击键盘颜色 -->
+        <color name="dialer_search_highlightcolor">#ff00bbce</color>
+	<!-- 联系人列表主字体颜色 -->
+	<color name="contact_list_item_text_color">#D8000000</color>
+	<!-- 联系人列表辅助字体颜色 -->
+	<color name="contact_list_item_sub_text_color">#A5000000</color>
+	<!-- 编辑联系人主字体颜色 -->
+	<color name="contact_eidtor_item_name_color">#000000</color>
+        <!-- 编辑联系人辅助字体颜色 -->
+        <color name="contact_eidtor_item_content_color">#000000</color>
+	<!-- 通话记录主字体颜色 -->
+	<color name="call_log_primary_text_color">#000000</color>
+	<!-- 通话记录辅助字体颜色 -->
+	<color name="call_log_secondary_text_color">#000000</color>
+        <!-- 新建联系人actionbar标题字体颜色-->
+	<color name="contact_eidtor_title_color">#ff000000</color>
+	<!-- section title 字体颜色 -->
+	<color name="contact_section_title_text_color">#000000</color>
+	<!-- 从其他设备导入 准备 文本字体颜色 -->
+	<color name="contact_bt_prepare_title_color">#E5000000</color>
+	<!--通话详情历史记录主字体颜色(白色) -->
+        <color name="contact_calllog_detail_main_text_color">#D8000000</color>
+        <!--通话详情历史记录辅字体颜色（白色） -->
+        <color name="contact_detail_white_sub_text_color">#B2000000</color>
+        <!--通话详情标题 姓名 字体颜色 -->
+        <color name="contact_detail_white_important_text_color">#FF000000</color>
+        <!--通话详情标题 公司 字体颜色 -->
+        <color name="contact_detail_white_sub_text_color">#B2000000</color>
+        <!--拨号盘 输入陌生号码 字体颜色-->
+        <color name="dialpad_huawei_text_color">#B2000000</color>
+        <!--详情、拨号盘、联系人主界面menu 字体颜色：分别为获取焦点、按下、不可用、默认四种-->
+        <color name="menu_selector_color_state_focused">#66000000</color>
+        <color name="menu_selector_color_state_pressed">#66000000</color>
+        <color name="menu_selector_color_state_enabled">#4e000000</color>
+        <color name="menu_selector_color_state_default">#99000000</color>
+        <!--清空联系人时 图标下面文本颜色 -->
+        <color name="empty_contacts_text_color">#A5000000</color>
+
+        <!--控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
+        <color name="background_change">#00000000</color>
+
+
+<!-- message模块字体颜色 -->
+    <drawable name="class_zero_background">#7F000000</drawable>
+
+    <!-- popup中btn的删除红色字体颜色 -->
+    <drawable name="text_color_red">#ffff4444</drawable>
+    <!-- 短信编辑界面 对话气泡的字体颜色 -->
+    <drawable name="text_color_black">#000000</drawable>
+    <!-- 短信编辑对话气泡旁边的提示字符 文字颜色 -->
+    <color name="mms_sub_text_color">#000000</color>
+    <!-- 短信编辑界面 彩信对话框的 系统提示字体颜色 -->
+    <color name="text_color_taste_isMms_normal">#ff000000</color>
+    <!-- 短信编辑界面 彩信对话框的 正在下载的系统提示字体颜色 -->
+    <color name="label_downloading">#99000000</color>
+    <!-- 短信编辑界面 彩信对话框的 下载btn的下载 字体颜色 -->
+    <color name="list_item_downlod_btn_disable_color">#64000000</color>
+    <!-- 对话气泡中详情按钮的 文字颜色 -->
+    <color name="list_item_btn_disable_color">#64000000</color>
+    <!-- 对话气泡发送的信息 超链接文字颜色 -->
+    <color name="text_color_white">#ff000000</color>
+    <!-- 对话气泡接收的信息 超链接文字颜色 -->
+    <color name="incoming_msg_text_color">#00ff00</color>
+    <!-- 未发出的对话气泡第一行 发给 文字颜色 -->
+    <color name="mms_send_to_text_color">#DB000000</color>
+    <!-- 彩信对话气泡图片下面字体的文字颜色 -->
+    <color name="single_text_editor_color">#FF000000</color>
+    <!-- 彩信对话气泡图片下面数量字体的文字颜色 -->
+    <color name="slide_page_number_color">#a000000</color>
+    <!-- 彩信对话气泡 音乐附件的音乐名称文字颜色 -->
+    <color name="text_color_button">#FF000000</color>
+
+    <!-- 短信编辑界面用户名 文字颜色 -->
+    <color name="text_color_white_important">#ff000000</color>
+    <!-- 短信编辑界面用户名下面的描述 文字颜色 -->
+    <color name="text_color_white_sub">#000000</color>
+    <!-- 短信编辑界面三个常用按钮的竖向分割线 颜色 -->
+    <drawable name="splite_line_drawable_white">#000000</drawable>
+    <!-- 短信编辑界面发送小图标上面的数量字符颜色 -->
+    <color name="text_color_balck_sub">#000000</color>
+
+    <!-- list列表的第一行文字颜色 -->
+    <color name="text_color_black_main">#000000</color>
+    <!-- list列表未读信息文字颜色 -->
+    <color name="mms_unread_text_color">#000000</color>
+    <!-- list列表第二行辅助文字颜色 -->
+    <color name="text_color_black_sub_2">#000000</color>
+    <!-- list第三行 已发送的文字颜色 -->
+    <color name="text_color_black_sub_1">#000000</color>
+
+    <!-- 选择项界面 用户名下面的文字颜色 -->
+    <color name="text_color">#FF000000</color>
+    <!-- popup的红色提示字符颜色 -->
+    <color name="sms_number_set_warning">#f0460e</color>
+
+    <!-- 插入表情的底板颜色 -->
+    <color name="attach_panel_item_color">#355a84</color>
+    <!-- 插入表情底板中 分割线颜色 -->
+    <color name="attach_panel_grid_line_color">#00869db7</color>
+    <!-- 插入表情底板中 图标下面文字颜色 -->
+    <color name="text_color_black_important">#000000</color>
+    <!-- 插入表情底板下面 导航点normal颜色 -->
+    <color name="sign_view_select_color">#660ccd87</color>
+    <!-- 插入表情底板下面 导航点unselect颜色 -->
+    <color name="sign_view_unselect_color">#190ccd87</color>
+    <!-- 控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
+    <color name="mms_bg_change">#00000000</color>
+    <color name="text_color_white_sub_1">#7f000000</color>
+    <color name="text_color_white_sub_2">#4C000000</color>
+    <color name="text_color_white_splite_line">#33000000</color>
+    <color name="text_color_white_main">#D8000000</color> 
+     <!--清空信息时 图标下面文本颜色 -->
+        <color name="empty_message_text_color">#A5000000</color>
+</hwthemes>
