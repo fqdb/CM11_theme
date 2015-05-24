@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 新建信息时最近联系人导航字体颜色  信息输入时字体颜色 setting一级页面list字体颜色 setting桌面样式页面里面字体颜色 应用主题popup颜色 图库列表颜色 -->
+    <color name="emui_text_dark">#000000</color>
+    <!-- 信息popup字体 poup按钮颜色 -->
+    <color name="emui_button_text_color">#000000</color>
+    <color name="emui_button_text_disabled">#000000</color>
+    <!-- 时间轴字体颜色 -->
+    <color name="emui_time_axis_info_default">#000000</color>
+    <!-- spinner字体颜色 -->
+    <color name="emui_spinner_item_default">#d8000000</color>
+    <color name="emui_spinner_item_pressed">#6b000000</color>
+    <color name="emui_spinner_item_disabled">#3f000000</color>
+    <!-- setting sectionlist标题字体 省电管理sectionlist -->
+    <color name="emui_list_separator_default">#ff000000</color>
+    <!-- setting WLAN界面第一行list字体 蓝牙第一行list 手机管家超级省电settinglist颜色 -->
+    <color name="emui_list_primary_default">#000000</color>
+    <!-- toolbar字体颜色 日历 主题管理 信息 -->
+    <color name="menuitem_default_checkedcolor">#000000</color>
+    <color name="menuitem_default_uncheckedcolor">#000000</color>
+    <!-- 蓝牙未连接时颜色primary text color for disable 10% dark-->
+    <color name="emui_primary_text_dark_disabled">#4c000000</color>
+    <!-- 控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
+    <color name="emui_custom_panel_background">#00000000</color>
+    <color name="hw_title_header_background">#ffce1111</color>
+    <color name="hw_title_header_text">#ffce1111</color>
+    <!-- setting二级界面第二行list颜色 -->
+    <color name="emui_secondary_text_dark">#a5000000</color>
+    <!-- 设置时间 -->
+    <color name="emui_numberpicker_select_textcolor">#ff000000</color>   
+    <color name="emui_numberpicker_small_textcolor">#66000000</color>
+    <color name="emui_numberpicker_normal_textcolor">#d9000000</color>
+</resources>
+
