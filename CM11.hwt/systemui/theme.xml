@@ -7,16 +7,14 @@
 	<color name="status_bar_expand_toolbox_tab_button_pressed">#6bffffff</color>
 	
 	<!-- 高斯模糊背景上覆盖的颜色值 -->
-	<drawable name="notification_panel_bg">#80ffffff</drawable>
+	<drawable name="notification_panel_bg">#00ffffff</drawable>
 	
 	<!-- 下拉通知栏后，通知栏底部显示的运营商信息的字体颜色 -->
 	<color name="sim_message">#4dffffff</color>
 	
 	<!-- 只在第一次使用的时候出现的tips文字的字体颜色 -->
 	<color name="tips_text_color">#ffffff</color>
-	
-	
-	
+		
 	<!-- 通知TAB页上的时间字体颜色 -->
 	<color name="clock_color">#ffffff</color>
 

@@ -4,7 +4,7 @@
     <color name="emui_text_dark">#ffffff</color>
     <!-- 信息popup字体 poup按钮颜色 -->
     <color name="emui_button_text_color">#ffffff</color>
-    <color name="emui_button_text_disabled">#ffffff</color>
+    <color name="emui_button_text_disabled">#bababa</color>
     <!-- 时间轴字体颜色 -->
     <color name="emui_time_axis_info_default">#ffffff</color>
     <!-- spinner字体颜色 -->
@@ -25,7 +25,7 @@
     <color name="hw_title_header_background">#ffce1111</color>
     <color name="hw_title_header_text">#ffffffff</color>
     <!-- setting二级界面第二行list颜色 -->
-    <color name="emui_secondary_text_dark">#a5ffffff</color>
+    <color name="emui_secondary_text_dark">#ffffffff</color>
     <!-- 设置时间 -->
     <color name="emui_numberpicker_select_textcolor">#ffffffff</color>   
     <color name="emui_numberpicker_small_textcolor">#66ffffff</color>

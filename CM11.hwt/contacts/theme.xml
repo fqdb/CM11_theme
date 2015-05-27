@@ -86,13 +86,13 @@
     <color name="text_color_balck_sub">#000000</color>
 
     <!-- list列表的第一行文字颜色 -->
-    <color name="text_color_black_main">#000000</color>
+    <color name="text_color_black_main">#ffffff</color>
     <!-- list列表未读信息文字颜色 -->
-    <color name="mms_unread_text_color">#000000</color>
+    <color name="mms_unread_text_color">#ffffff</color>
     <!-- list列表第二行辅助文字颜色 -->
-    <color name="text_color_black_sub_2">#000000</color>
+    <color name="text_color_black_sub_2">#ffffff</color>
     <!-- list第三行 已发送的文字颜色 -->
-    <color name="text_color_black_sub_1">#000000</color>
+    <color name="text_color_black_sub_1">#ffffff</color>
 
     <!-- 选择项界面 用户名下面的文字颜色 -->
     <color name="text_color">#FF000000</color>
@@ -111,10 +111,10 @@
     <color name="sign_view_unselect_color">#190ccd87</color>
     <!-- 控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
     <color name="mms_bg_change">#00000000</color>
-    <color name="text_color_white_sub_1">#7f000000</color>
-    <color name="text_color_white_sub_2">#4C000000</color>
-    <color name="text_color_white_splite_line">#33000000</color>
-    <color name="text_color_white_main">#D8000000</color> 
+    <color name="text_color_white_sub_1">#7fffffff</color>
+    <color name="text_color_white_sub_2">#4Cffffff</color>
+    <color name="text_color_white_splite_line">#33ffffff</color>
+    <color name="text_color_white_main">#D8ffffff</color> 
      <!--清空信息时 图标下面文本颜色 -->
-        <color name="empty_message_text_color">#A5000000</color>
+        <color name="empty_message_text_color">#A5ffffff</color>
 </hwthemes>
