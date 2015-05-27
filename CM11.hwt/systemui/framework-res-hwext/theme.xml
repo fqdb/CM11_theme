@@ -23,7 +23,7 @@
     <!-- 控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
     <color name="emui_custom_panel_background">#00323232</color>
     <color name="hw_title_header_background">#ffce1111</color>
-    <color name="hw_title_header_text">#ffce1111</color>
+    <color name="hw_title_header_text">#ffffffff</color>
     <!-- setting二级界面第二行list颜色 -->
     <color name="emui_secondary_text_dark">#a5ffffff</color>
     <!-- 设置时间 -->

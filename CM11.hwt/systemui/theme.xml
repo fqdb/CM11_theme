@@ -26,8 +26,6 @@
 	<!-- 时间轴上时间、进行中 、时间值 的字体颜色 -->
 	<color name="emui_time_axis_info_default">#7fffffff</color>
 	
-	
-	
 	<!-- 亮度调节"自动"文字的字体颜色 -->
 	<color name="status_bar_expand_brightness_text">#ccffffff</color>
 
@@ -43,7 +41,7 @@
 	<!-- toolbox开关编辑界面上方的文字"编辑开关"的字体颜色 -->
 	<color name="status_bar_expand_toolbox_edit_normal">#d9ffffff</color>
 
+	<color name="notification_sub_text_color">#ffffffff</color>
 
-<color name="notification_sub_text_color">#ffffffff</color>
     <color name="notification_event_text_color">#ffffffff</color>	
 </resources>

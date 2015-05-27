@@ -12,9 +12,9 @@
     <color name="category_emotion">#ffffffff</color>
 
     <!-- 日期和时间里面的右边时间不可用状态字体颜色 -->
-    <color name="emui_summary_text_dark_disabled">#5c5cff</color>
+    <color name="emui_summary_text_dark_disabled">#ffffff</color>
     <!-- 日期和时间里面的右边时间点击状态字体颜色 -->
-    <color name="emui_text_summary_dark">#5c5cff</color>
+    <color name="emui_text_summary_dark">#ffffff</color>
     <!-- 日期和时间里面的右边时间正常状态字体颜色 -->
-    <color name="emui_list_summary_default">#5c5cff</color>
+    <color name="emui_list_summary_default">#ffffff</color>
 </hwthemes>
