@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hwthemes>
+    <!-- 文字不可用状态字体颜色 -->
+    <color name="emui_primary_text_dark_disabled">#4cffffff</color>
+    <!-- 文字点击状态字体颜色 -->
+    <color name="emui_text_dark">#ffffff</color>
+    <!-- 文字默认状态字体颜色 -->
+    <color name="emui_list_primary_default">#d8ffffff</color>
+
+    <!-- 开发人员选项 ， 进程统计信息， 查看进程使用详情， 详细使用情况字体颜色 -->
+    <!-- 开发人员选项 ， 进程统计信息， 查看进程使用详情， 服务字体颜色 -->
+    <color name="category_emotion">#ffffffff</color>
+
+    <!-- 日期和时间里面的右边时间不可用状态字体颜色 -->
+    <color name="emui_summary_text_dark_disabled">#5c5cff</color>
+    <!-- 日期和时间里面的右边时间点击状态字体颜色 -->
+    <color name="emui_text_summary_dark">#5c5cff</color>
+    <!-- 日期和时间里面的右边时间正常状态字体颜色 -->
+    <color name="emui_list_summary_default">#5c5cff</color>
+</hwthemes>
