@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<!-- TAB页上"通知"、"开关"文字的字体颜色 -->
-	<color name="status_bar_expand_toolbox_tab_button_normal">#d9ffffff</color>
+	<color name="status_bar_expand_toolbox_tab_button_normal">#ffffffff</color>
 	
 	<!-- TAB页上"通知"、"开关"文字处于pressed状态的字体颜色 -->
 	<color name="status_bar_expand_toolbox_tab_button_pressed">#6bffffff</color>
 	
 	<!-- 高斯模糊背景上覆盖的颜色值 -->
-	<drawable name="notification_panel_bg">#00ffffff</drawable>
+	<drawable name="notification_panel_bg">#ffffffff</drawable>
 	
 	<!-- 下拉通知栏后，通知栏底部显示的运营商信息的字体颜色 -->
 	<color name="sim_message">#4dffffff</color>
@@ -22,19 +22,19 @@
 	<color name="data_color">#ffffff</color>
 
 	<!-- 时间轴上时间、进行中 、时间值 的字体颜色 -->
-	<color name="emui_time_axis_info_default">#7fffffff</color>
+	<color name="emui_time_axis_info_default">#ffffffff</color>
 	
 	<!-- 亮度调节"自动"文字的字体颜色 -->
-	<color name="status_bar_expand_brightness_text">#ccffffff</color>
+	<color name="status_bar_expand_brightness_text">#ffffffff</color>
 
 	<!-- "耳机推荐应用"的字体颜色 -->
 	<color name="notification_panel_text_color">#8bffffff</color>
 
 	<!-- toolbox开关下面的文字的字体颜色 -->
-	<color name="status_bar_expand_toolbox_text_normal">#d9ffffff</color>
+	<color name="status_bar_expand_toolbox_text_normal">#ffffffff</color>
 
 	<!-- toolbox开关编辑界面上，开关下面的文字的字体颜色 -->
-	<color name="status_bar_expand_toolbox_tab_button_normal">#d9ffffff</color>
+	<color name="status_bar_expand_toolbox_tab_button_normal">#ffffffff</color>
 	
 	<!-- toolbox开关编辑界面上方的文字"编辑开关"的字体颜色 -->
 	<color name="status_bar_expand_toolbox_edit_normal">#d9ffffff</color>

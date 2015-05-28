@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layout frameRate="60" version="3.0"screenwidth="1080">
+	
+		
+	    	<image x="288" y="257" w="111" h="168" src="'number_'+system.time.hour1+'.png'"/>
+	    	<image x="399" y="257 " w="111" h="168" src="'number_'+system.time.hour2+'.png'"/>
+	    	
+ <image x="510" y="257" w="60" h="168" src="colon.png"/>
+	    	<image x="570" y="257" w="111" h="168" src="'number_'+system.time.min1+'.png'"/>
+	    	<image x="681" y="257" w="111" h="168" src="'number_'+system.time.min2+'.png'"/>
+			
+		
+
+		<text x="0" y="587" w="1080" h="81" align="center" size="16" color="#FF444442" src="system.date"/>
+	        <text x="750" y="260" w="100" h="50" visible="system.time.showampm" align="left" size="16" color="#FF444442" src="system.time.ampm"/>
+
+	    	<text x="0" y="678" w="1080" h="75" align="center" size="16" color="#444442" src="system.charge.text" visible="system.charge.show"/>
+
+		<text x="0" y="678" w="1080" h="75" align="center" size="16" color="#444442" src="system.ownerinfo.text"ellipsize="marquee" visible="!system.charge.show and system.ownerinfo.show" ellipsize="marquee"/>
+
+
+<!--unread message and call log-->
+	<text x="0" y="845" w="1080" h="66" align="center" size="16" color="#444442" src="system.message.text" visible="system.message.count gt 0"/>
+        <text x="0" y="900" w="1080" h="66" align="center" size="16" color="#444442" src="system.call.text" visible="system.call.count gt 0"/>
+
+
+
+
+        
+        <unlocker name="unlocker1" visible="true">
+        
+        <StartPoint x="0" y="1305" w="1080" h="354">
+        </StartPoint>
+	<EndPoint x="0" y="1566" w="1080" h="354">
+		<Path x="0" y="280"/>
+                <Intent type="default"/>
+        </EndPoint>
+	</unlocker>
+
+        <image x="501" y="1707" w="96" h="51" src="arrow1.png"/> 	
+        
+
+       <image x="370" y="1305" w="353" h="354" src="lock_normal.png" visible="system.unlocker1_state eq 0"/>
+	
+       <image x="370" y="1305+system.unlocker1_moveY"  w="353" h="354"  src="lock_press.png" visible="system.music_visible eq 0 and system.unlocker1_state ne 0"/>
+	
+	
+
+	<emergency h="142" w="500" y="1000" x="290"/>
+
+      
+</layout>

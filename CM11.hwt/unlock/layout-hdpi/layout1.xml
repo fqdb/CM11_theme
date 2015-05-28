@@ -1,40 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout frameRate="30" version="3.0" screenwidth="1080">
 
-<!--紧急呼叫-->
+<!--Emergency call button -->
         <emergency x="0" y="1250" w="1080" h="94" align="center" size="18" color="#FFffffff"/>
 	
-<!--时间日期-->
-	    <image x="130" y="1430" w="88" h="126" src="'number_'+system.time.hour1+'.png'"/>
-        <image x="218" y="1430" w="88" h="126" src="'number_'+system.time.hour2+'.png'"/>
-        <image x="306" y="1430" w="33" h="126" src="colon.png"/>
-        <image x="339" y="1430" w="88" h="126" src="'number_'+system.time.min1+'.png'"/>
-        <image x="427" y="1430" w="88" h="126" src="'number_'+system.time.min2+'.png'"/>
+<!--Date and time-->
+	    <image x="130" y="300" w="88" h="165" src="'number_'+system.time.hour1+'.png'"/>
+        <image x="218" y="300" w="88" h="165" src="'number_'+system.time.hour2+'.png'"/>
+        <image x="306" y="300" w="33" h="165" src="colon.png"/>
+        <image x="339" y="300" w="88" h="165" src="'number_'+system.time.min1+'.png'"/>
+        <image x="427" y="300" w="88" h="165" src="'number_'+system.time.min2+'.png'"/>
 
-	    <text x="540" y="1492" w="400" h="64" align="center" size="16" color="#FF808080" src="system.date"/>
+	    <text x="540" y="400" w="400" h="64" align="center" size="16" color="#FF808080" src="system.date"/>
 
-<!--正常解锁-->          
+<!--Unlock normal-->          
         <unlocker name="" >
-            <StartPoint x="0" y="1556" w="1080" h="300">
-            </StartPoint>
+            <StartPoint x="0" y="1556" w="1080" h="300"></StartPoint>
 	        <EndPoint x="0" y="436" w="1080" h="1060">
 		        <Path x="0" y="400"/>
                 <Intent type="default"/>
             </EndPoint>
 	    </unlocker>
+		<normal x="0" y="1556" w="1080" h="300">
+		<image x="429" y="1184" w="184" h="166" src="lock_normal.png"/>
+		</normal>
 		
-<!--正常显示-->		
-        <image x="481" y="1600" w="120" h="120" src="arrow.png">		
-	        <animationset interval="300" condition="!system.press or system.press">
-            <animation type="alpha" interpolator="linear" duration="800" fromAlpha="1" toAlpha="0"/>
-            </animationset>
-        </image>
-        
+<!--Unlock pressed-->
+		<press x="0" y="1556" w="1080" h="300">
+		<image x="429" y="1184" w="184" h="166" src="lock_normal.png"/>
+		</press>
+		     
+<!--Unlock hint-->
 		<text x="419" y="1730" w="242" h="50" align="center" size="12" color="#80ffffff" src="system.unlocktip"/> 
 
-<!--签名及未接-->	
-<text x="0" y="700" w="1080" h="60" align="center" size="14" color="#808080" src="system.ownerinfo.text" ellipsize="marquee" visible="!system.charge.show and system.ownerinfo.show"/>
-<text x="0" y="700" w="1080" h="70" align="center" size="14" color="#ffffff" chargingtype="text" src="system.charge.text" visible="system.charge.show"/> 
+<!--Ownerinfo and lockscreen notifications-->	
+<text x="0" y="490" w="1080" h="60" align="center" size="14" color="#808080" src="system.ownerinfo.text" ellipsize="marquee" visible="!system.charge.show and system.ownerinfo.show"/>
+<text x="0" y="580" w="1080" h="70" align="center" size="14" color="#ffffff" chargingtype="text" src="system.charge.text" visible="system.charge.show"/> 
 <text x="0" y="880" w="1080" h="66" align="center" size="16" color="#ffffff" src="system.message.text" visible="system.message.count gt 0"/>
 <text x="0" y="960" w="1080" h="66" align="center" size="16" color="#ffffff" src="system.call.text" visible="system.call.count gt 0"/>
  	    
