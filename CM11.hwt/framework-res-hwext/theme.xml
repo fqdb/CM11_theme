@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- 新建信息时最近联系人导航字体颜色  信息输入时字体颜色 setting一级页面list字体颜色 setting桌面样式页面里面字体颜色 应用主题popup颜色 图库列表颜色 -->
-    <color name="emui_text_dark">#d9323232</color>
+    <color name="emui_text_dark">#d9000000</color>
 
     <!-- setting sectionlist标题字体 省电管理sectionlist -->
     <color name="emui_list_separator_default">#ffffffff</color>
@@ -66,7 +66,7 @@
     <!-- 没用fastscroll字体颜色 -->
     <color name="emui_label_primary_text">#ff000000</color>
     <!-- Pop-up boxes text colour-->
-    <color name="emui_popmenu_text_color">#ffffffff</color>
+    <color name="emui_popmenu_text_color">#ff000000</color>
 
 </resources>
 

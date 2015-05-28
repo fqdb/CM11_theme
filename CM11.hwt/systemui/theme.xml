@@ -39,7 +39,4 @@
 	<!-- toolbox开关编辑界面上方的文字"编辑开关"的字体颜色 -->
 	<color name="status_bar_expand_toolbox_edit_normal">#d9ffffff</color>
 
-	<color name="notification_sub_text_color">#ffffffff</color>
-
-    <color name="notification_event_text_color">#ffffffff</color>	
 </resources>
