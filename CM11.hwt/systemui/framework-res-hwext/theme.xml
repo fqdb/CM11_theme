@@ -2,8 +2,8 @@
 <resources>
     <!-- 新建信息时最近联系人导航字体颜色  信息输入时字体颜色 setting一级页面list字体颜色 setting桌面样式页面里面字体颜色 应用主题popup颜色 图库列表颜色 -->
     <color name="emui_text_dark">#ffffff</color>
-    <!-- 信息popup字体 poup按钮颜色 -->
-    <color name="emui_button_text_color">#ffffff</color>
+    <!-- Pop up font colour -->
+    <color name="emui_button_text_color">#ffffffff</color>
     <color name="emui_button_text_disabled">#bababa</color>
     <!-- 时间轴字体颜色 -->
     <color name="emui_time_axis_info_default">#ffffff</color>
