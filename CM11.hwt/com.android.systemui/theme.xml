@@ -6,7 +6,7 @@
 	<!-- Font colour for quick settings toggles -->
 	<color name="status_bar_expand_toolbox_tab_button_pressed">#6bffffff</color>
 	
-	<!-- 高斯模糊背景上覆盖的颜色值 -->
+	<!-- Gaussian blur 背景上覆盖的颜色值 -->
 	<drawable name="notification_panel_bg">#ffffffff</drawable>
 	
 	<!-- Operator name in status bar colour -->
@@ -24,10 +24,10 @@
 	<!-- Timeline text colour -->
 	<color name="emui_time_axis_info_default">#ffffffff</color>
 	
-	<!-- 亮度调节"自动"文字的字体颜色 -->
+	<!-- Brightness 'auto' text colour -->
 	<color name="status_bar_expand_brightness_text">#ffffffff</color>
 
-	<!-- "耳机推荐应用"的字体颜色 -->
+	<!-- 'Recommended with headphones' text colour -->
 	<color name="notification_panel_text_color">#fffffff</color>
 
 	<!-- toolbox开关下面的文字的字体颜色 -->
