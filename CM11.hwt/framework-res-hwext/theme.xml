@@ -6,9 +6,9 @@
     <!-- setting sectionlist标题字体 省电管理sectionlist -->
     <color name="emui_list_separator_default">#ffffffff</color>
     <!-- setting WLAN界面第一行list字体 蓝牙第一行list 手机管家超级省电settinglist颜色 -->
-    <color name="emui_list_primary_default">#000000</color>
+    <color name="emui_list_primary_default">#ffffff</color>
     <!-- setting二级界面第二行list颜色 -->
-    <color name="emui_secondary_text_dark">#a5000000</color>
+    <color name="emui_secondary_text_dark">#a5bababa</color>
 
     <!-- Control tab fixed background image #00000000 Gaussian blur effect applied on wallpaper -->
     <color name="emui_custom_panel_background">#ff000000</color>
@@ -18,13 +18,13 @@
     <!-- toolbar字体颜色 日历 主题管理 信息 -->
     <color name="menuitem_default_checkedcolor">#99ffffff</color>
     <color name="menuitem_default_uncheckedcolor">#99ffffff</color>
-    <!-- Phone manager 家list第一行字体 -->
-    <color name="hw_black">#ff000000</color>
+    <!-- Phone manager app text colour -->
+    <color name="hw_black">#ffffffff</color>
     <!-- Timeline font colour -->
     <color name="emui_time_axis_info_default">#7fffffff</color>
-    <!-- 弹出框分割线颜色 -->
-    <color name="dim_foreground_inverse_emui">#323232</color>
-    <color name="bright_foreground_emui">#fff3f3f3</color>
+    <!-- Pop up box divide colour -->
+    <color name="dim_foreground_inverse_emui">#bababa</color>
+    <color name="bright_foreground_emui">#ffbababa</color>
     <color name="dim_foreground_disabled_emui">#80bebebe</color>
     <color name="dim_foreground_emui">#bebebe</color>
     <!-- action bar font colour - edit contact - Theme details font -->
@@ -42,9 +42,9 @@
     <!-- language input-->
     <color name="emui_text_disabled">#19ffffff</color>
     <!-- Warning dialog text colour -->
-    <color name="emui_dialog_title_text_Color">#ff000000</color>
+    <color name="emui_dialog_title_text_Color">#ffffffff</color>
     <!-- Toast notification text colour	-->
-    <color name="emui_message_text_color">#99323232</color>
+    <color name="emui_message_text_color">#99ffffff</color>
     <!-- Popup font colour -->
     <color name="emui_button_text_disabled">#ffffffff</color>
     <!-- subtab title colour -->
@@ -53,13 +53,13 @@
     <color name="sub_tab_title_activated_pressed_emui">#59ffffff</color>
     <color name="sub_tab_title_activated_emui">#b2ffffff</color>
     <!-- spinner font colour -->
-    <color name="emui_spinner_item_default">#d8000000</color>
-    <color name="emui_spinner_item_pressed">#6b000000</color>
-    <color name="emui_spinner_item_disabled">#3f000000</color>
+    <color name="emui_spinner_item_default">#d8323232</color>
+    <color name="emui_spinner_item_pressed">#6b323232</color>
+    <color name="emui_spinner_item_disabled">#3f323232</color>
 
      <!-- Date Picker和Time Picker -->  
-    <color name="emui_numberpicker_small_textcolor">#66000000</color>
-    <color name="emui_numberpicker_normal_textcolor">#d9000000</color>
+    <color name="emui_numberpicker_small_textcolor">#66323232</color>
+    <color name="emui_numberpicker_normal_textcolor">#d9323232</color>
 
     <!-- 没用fastscroll字体颜色 -->
     <color name="emui_label_primary_text">#ffffffff</color>
