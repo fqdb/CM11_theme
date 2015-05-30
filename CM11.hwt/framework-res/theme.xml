@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 <color name="notification_sub_text_color">#ffffffff</color>
-    <color name="notification_event_text_color">#ffffffff</color>	
+<color name="notification_event_text_color">#ffffffff</color>
+<color name="notification_button_text_color">#ffffffff</color>
 	
 	<!-- Pop up font colour -->
 <color name="emui_button_text_color">#ffffffff</color>

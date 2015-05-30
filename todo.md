@@ -1,9 +1,8 @@
 * Make pop up texts white
-
-
 * theme MMS/dialer/contacts
-
 * make statusbar black
 * colour expandable notification buttons and text white
+* add CM wifi icons
+* add CM pattern dots and traces
 * 
-* add CM USB debug/USB connected/screenshot etc. icons in status bar
+
