@@ -47,8 +47,8 @@
     <color name="emui_dialog_title_text_Color">#E5000000</color>
     <!-- Toast notification text colour	-->
     <color name="emui_message_text_color">#99000000</color>
-    <!-- 信息popup字体 poup按钮颜色 -->
-    <color name="emui_button_text_disabled">#41000000</color>
+    <!-- Popup font colour -->
+    <color name="emui_button_text_disabled">#ffffffff</color>
     <!-- subtab title colour -->
     <color name="sub_tab_title_selected_pressed_emui">#80ffffff</color>
     <color name="sub_tab_title_selected_emui">#ffffffff</color>
@@ -64,9 +64,9 @@
     <color name="emui_numberpicker_normal_textcolor">#d9000000</color>
 
     <!-- 没用fastscroll字体颜色 -->
-    <color name="emui_label_primary_text">#ff000000</color>
+    <color name="emui_label_primary_text">#ffffffff</color>
     <!-- Pop-up boxes text colour-->
-    <color name="emui_popmenu_text_color">#ff000000</color>
+    <color name="emui_popmenu_text_color">#ffffffff</color>
 
 </resources>
 

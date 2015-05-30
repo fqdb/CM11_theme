@@ -1,4 +1,4 @@
 text selector handles skewed
-text select actions box should be dark grey
-text input disabled wrong resource
-volume popup not wide enough
+text select actions box text colour should be black
+sliders right side wrong colour
+volume popup uses wrong background
