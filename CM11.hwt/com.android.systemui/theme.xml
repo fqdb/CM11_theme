@@ -22,7 +22,7 @@
 	<color name="data_color">#ffffff</color>
 
 	<!-- Timeline text colour -->
-	<color name="emui_time_axis_info_default">#ffffffff</color>
+	<color name="emui_time_axis_info_default">#00ffffff</color>
 	
 	<!-- Brightness 'auto' text colour -->
 	<color name="status_bar_expand_brightness_text">#ffffffff</color>
