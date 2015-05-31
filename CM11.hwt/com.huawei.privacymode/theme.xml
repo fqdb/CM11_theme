@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 新建信息时最近联系人导航字体颜色  信息输入时字体颜色 setting一级页面list字体颜色 setting桌面样式页面里面字体颜色 应用主题popup颜色 图库列表颜色 -->
+    <color name="emui_text_dark">#d9bebebe</color>
+
+    <!-- setting sectionlist标题字体 省电管理sectionlist -->
+    <color name="emui_list_separator_default">#ffffffff</color>
+    <!-- setting WLAN界面第一行list字体 蓝牙第一行list 手机管家超级省电settinglist颜色 -->
+    <color name="emui_list_primary_default">#ffffff</color>
+    <!-- setting二级界面第二行list颜色 -->
+    <color name="emui_secondary_text_dark">#ffbababa</color>
+
+    <!-- Control tab fixed background image #00000000 Gaussian blur effect applied on wallpaper -->
+    <color name="emui_custom_panel_background">#ffbebebe</color>
+    <color name="hw_title_header_background">#ffce1111</color>
+    <color name="hw_title_header_text">#ffce1111</color>
+
+    <!-- toolbar字体颜色 日历 主题管理 信息 -->
+    <color name="menuitem_default_checkedcolor">#99ffffff</color>
+    <color name="menuitem_default_uncheckedcolor">#99ffffff</color>
+    <!-- Phone manager app text colour -->
+    <color name="hw_black">#ffffffff</color>
+    <!-- Timeline font colour -->
+    <color name="emui_time_axis_info_default">#00ffffff</color>
+    <!-- Pop up box divide colour -->
+    <color name="dim_foreground_inverse_emui">#bababa</color>
+    <color name="bright_foreground_emui">#ffbababa</color>
+    <color name="dim_foreground_disabled_emui">#80bebebe</color>
+    <color name="dim_foreground_emui">#bebebe</color>
+    <!-- action bar font colour - edit contact - Theme details font -->
+    <color name="emui_action_bar_title_text_color">#ffffffff</color>
+    <!-- 短信联系人下拉后电话号码字体颜色和下面竖向分割线颜色 -->
+    <color name="emui_background_light">#ffffffff</color>
+    <!-- tab colour -->
+    <color name="emui_bright_foreground_light_inverse">#ffffffff</color>
+    <!-- tab pressed colour -->
+    <color name="emui_bright_foreground_light_inverse_alpha">#8fffffff</color>
+    <!-- sim car unavailable secondary text color for disable 10% dark-->
+    <color name="emui_secondary_text_dark_disabled">#4cbebebe</color>
+    <!-- bluetooth not connected primary text color for disable 10% dark-->
+    <color name="emui_primary_text_dark_disabled">#4cbebebe</color>
+    <!-- language input-->
+    <color name="emui_text_disabled">#aaffffff</color>
+    <!-- Warning dialog text colour -->
+    <color name="emui_dialog_title_text_Color">#ffffffff</color>
+    <!-- Toast notification text colour	-->
+    <color name="emui_message_text_color">#99ffffff</color>
+    <!-- Popup font colour -->
+    <color name="emui_button_text_disabled">#ffffffff</color>
+    <!-- subtab title colour -->
+    <color name="sub_tab_title_selected_pressed_emui">#80ffffff</color>
+    <color name="sub_tab_title_selected_emui">#ffffffff</color>
+    <color name="sub_tab_title_activated_pressed_emui">#59ffffff</color>
+    <color name="sub_tab_title_activated_emui">#b2ffffff</color>
+    <!-- spinner font colour -->
+    <color name="emui_spinner_item_default">#d8323232</color>
+    <color name="emui_spinner_item_pressed">#6b323232</color>
+    <color name="emui_spinner_item_disabled">#3f323232</color>
+
+     <!-- Date Picker和Time Picker -->  
+    <color name="emui_numberpicker_small_textcolor">#66bebebe</color>
+    <color name="emui_numberpicker_normal_textcolor">#d9bebebe</color>
+
+    <!-- 没用fastscroll字体颜色 -->
+    <color name="emui_label_primary_text">#ffffffff</color>
+    <!-- Pop-up boxes text colour-->
+    <color name="emui_popmenu_text_color">#ffffffff</color>
+
+</resources>
+
