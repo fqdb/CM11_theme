@@ -7,6 +7,7 @@
     <color name="emui_button_text_disabled">#999999</color>
     <!-- Timeline font colour -->
     <color name="emui_time_axis_info_default">#0033b5e5</color>
+	<color name="emui_time_axis_info_delete">#0033b5e5</color>
     <!-- Spinner font colour -->
     <color name="emui_spinner_item_default">#d833b5e5</color>
     <color name="emui_spinner_item_pressed">#6b33b5e5</color>
@@ -19,13 +20,13 @@
     <color name="menuitem_default_checkedcolor">#33b5e5</color>
     <color name="menuitem_default_uncheckedcolor">#33b5e5</color>
     <!-- Colour for Bluetooth off -->
-    <color name="emui_primary_text_dark_disabled">#4cffffff</color>
+    <color name="emui_primary_text_dark_disabled">#ffbebebe</color>
     <!-- 控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
     <color name="emui_custom_panel_background">#ff000000</color>
     <color name="hw_title_header_background">#ffffffff</color>
     <color name="hw_title_header_text">#ffffffff</color>
     <!-- Sub text colour in list -->
-    <color name="emui_secondary_text_dark">#a5ffffff</color>
+    <color name="emui_secondary_text_dark">#ffbebebe</color>
     <!-- Time and date picker -->
     <color name="emui_numberpicker_select_textcolor">#ffffffff</color>   
     <color name="emui_numberpicker_small_textcolor">#66ffffff</color>

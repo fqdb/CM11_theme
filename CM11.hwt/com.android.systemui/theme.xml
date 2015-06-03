@@ -1,42 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<!-- TAB页上"通知"、"开关"文字的字体颜色 -->
+	<!-- Status bar tabs and quicksettings edit colour-->
 	<color name="status_bar_expand_toolbox_tab_button_normal">#ffffffff</color>
-	
 	<!-- Font colour for quick settings toggles -->
 	<color name="status_bar_expand_toolbox_tab_button_pressed">#6bffffff</color>
-	
 	<!-- Gaussian blur 背景上覆盖的颜色值 -->
 	<drawable name="notification_panel_bg">#ffffffff</drawable>
-	
 	<!-- Operator name in status bar colour -->
 	<color name="sim_message">#ffffffff</color>
-	
 	<!-- 只在第一次使用的时候出现的tips文字的字体颜色 -->
 	<color name="tips_text_color">#ffffff</color>
-		
 	<!-- Clock colour in notification panel -->
 	<color name="clock_color">#ffffff</color>
-
 	<!-- Date colour in notification panel -->
 	<color name="data_color">#ffffff</color>
-
 	<!-- Timeline text colour -->
 	<color name="emui_time_axis_info_default">#00ffffff</color>
-	
 	<!-- Brightness 'auto' text colour -->
-	<color name="status_bar_expand_brightness_text">#ffffffff</color>
-
-	<!-- 'Recommended with headphones' text colour -->
-	<color name="notification_panel_text_color">#fffffff</color>
-
-	<!-- toolbox开关下面的文字的字体颜色 -->
-	<color name="status_bar_expand_toolbox_text_normal">#ffffffff</color>
-
-	<!-- toolbox开关编辑界面上，开关下面的文字的字体颜色 -->
-	<color name="status_bar_expand_toolbox_tab_button_normal">#ffffffff</color>
-	
-	<!-- toolbox开关编辑界面上方的文字"编辑开关"的字体颜色 -->
-	<color name="status_bar_expand_toolbox_edit_normal">#d9ffffff</color>
+	<color name="status_bar_expand_brightness_text">#ffffff</color>
+	<!-- Quicksettings switches text colour -->
+	<color name="status_bar_expand_toolbox_text_normal">#ffffff</color>
+	<!-- Edit quicksettings title -->
+	<color name="status_bar_expand_toolbox_edit_normal">#00ffffff</color>
 
 </resources>
