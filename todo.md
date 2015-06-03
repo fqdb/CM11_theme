@@ -2,6 +2,7 @@
 * Make pop up texts white
 * Theme text selection actions
 * Ringtone chooser text should be #000000
+* Buttons in popups blurred
 ###Hard to fix
 * Fix power off menu icons
 * Make power off menu text #ffffff instead of #bebebe
