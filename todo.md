@@ -6,6 +6,8 @@
 * Checkbox off should be lighter colour
 * Fix power off menu icons
 * Make power off menu text #ffffff instead of #bebebe
+* Ringtone chooser text should be #000000
+* 
 
 ##Low priority bugs
 * Make notification action button text white
