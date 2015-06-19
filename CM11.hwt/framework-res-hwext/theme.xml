@@ -18,8 +18,8 @@
     <!-- toolbar字体颜色 日历 主题管理 信息 -->
     <color name="menuitem_default_checkedcolor">#99ffffff</color>
     <color name="menuitem_default_uncheckedcolor">#99ffffff</color>
-    <!-- Phone manager app text colour -->
-    <color name="hw_black">#ffffffff</color>
+    <!-- Phone manager app text colour TEST ORANGE-->
+    <color name="hw_black">#ffff5400</color>
     <!-- Timeline font colour -->
     <color name="emui_time_axis_info_default">#00ffffff</color>
     <!-- Pop up box divide colour -->
@@ -46,7 +46,7 @@
     <!-- Toast notification text colour	-->
     <color name="emui_message_text_color">#99ffffff</color>
     <!-- Popup font colour -->
-    <color name="emui_button_text_disabled">#ff323232</color>
+    <color name="emui_button_text_disabled">#ffbebebe</color>
     <!-- subtab title colour -->
     <color name="sub_tab_title_selected_pressed_emui">#80ffffff</color>
     <color name="sub_tab_title_selected_emui">#ffffffff</color>
