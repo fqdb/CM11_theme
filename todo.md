@@ -3,7 +3,6 @@
 * Ringtone chooser text should be #000000
 * Several other Huawei apps have white text on white background
 * Fix white on white text in messaging/dialer/contacts settings
-* Suspend button icon is invisible in quick settings when turned off
 * Theme slider path in colour temperature/quick settings
 ###Hard to fix
 * Fix power off menu icons
