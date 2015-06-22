@@ -1,10 +1,13 @@
 ##Bugs/to do
 * Theme text selection actions
-* Ringtone chooser background should be Holo grey
 * Fix power off menu colours and icons
+* Make all backgrounds Holo gradient
+* Themes app text colour is black, should be #ffffff
+
+##Coming soon
+* themed MMS/dialer/contacts
 
 ##Features wishlist
-* theme MMS/dialer/contacts
 * Theme camera
 * Theme Themes app
 * Add AOSP/CM style icons
