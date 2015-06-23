@@ -2,7 +2,8 @@
 * Theme text selection actions
 * Fix power off menu colours and icons
 * Make all backgrounds Holo gradient
-* Themes app text colour is black, should be #ffffff
+* Themes app bugs: search field invisible when not activated, search field text should be #bebebe, theme search field cancel button, search go button is invisible
+* Theme cursor colour
 
 ##Coming soon
 * themed MMS/dialer/contacts
