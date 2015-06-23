@@ -115,8 +115,8 @@
     <color name="emui_numberpicker_select_textcolor">#ffffffff</color>   
     <color name="emui_numberpicker_small_textcolor">#66ffffff</color>
     <color name="emui_numberpicker_normal_textcolor">#d9ffffff</color>
-	<color name="notification_sub_text_color">#ffffffff</color>
-    <color name="notification_event_text_color">#ffffffff</color>
+	<color name="notification_sub_text_color">#ffbebebe</color>
+    <color name="notification_event_text_color">#ffbebebe</color>
 	
 	<color name="emui_numberpicker_select_textcolor">#ffffffff</color>   
     <color name="emui_numberpicker_small_textcolor">#66ffffff</color>
