@@ -5,10 +5,6 @@
 * Themes app bugs: search field invisible when not activated, search field text should be #bebebe, theme search field cancel button, search go button is invisible
 * Theme cursor colour
 
-##Coming soon
-* themed MMS/dialer/contacts
-
 ##Features wishlist
 * Theme camera
-* Theme Themes app
 * Add AOSP/CM style icons

@@ -20,7 +20,7 @@
     <!-- Phone manager app text colour TEST ORANGE-->
     <color name="hw_black">#ffff5400</color>
     <!-- Timeline font colour -->
-    <color name="emui_time_axis_info_default">#00ffffff</color>
+    <color name="emui_time_axis_info_default">#ffffffff</color>
     <!-- Pop up box divide colour -->
     <color name="dim_foreground_inverse_emui">#bababa</color>
     <color name="bright_foreground_emui">#ffbababa</color>
@@ -68,7 +68,7 @@
     <color name="hw_title_header_background">#ffffffff</color>
     <color name="hw_title_header_text">#ffffffff</color>
 	
-     <!-- Date Picker和Time Picker -->  
+     <!-- Date Picker and Time Picker -->  
     <color name="emui_numberpicker_small_textcolor">#66000000</color>
     <color name="emui_numberpicker_normal_textcolor">#d9000000</color>
 
