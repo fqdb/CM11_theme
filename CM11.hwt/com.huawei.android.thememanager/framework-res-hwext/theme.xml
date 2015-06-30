@@ -122,7 +122,7 @@
     <color name="dim_foreground_emui">#ffffff</color>
 
     <!-- subtab -->
-    <color name="sub_tab_title_selected_pressed_emui">#80ffffff</color>
+    <color name="sub_tab_title_selected_pressed_emui">#ffbebebe</color>
     <color name="sub_tab_title_selected_emui">#ffffffff</color>
     <color name="sub_tab_title_activated_pressed_emui">#59ffffff</color>
     <color name="sub_tab_title_activated_emui">#b2ffffff</color>
@@ -152,11 +152,5 @@
 
     <!-- -->
     <color name="emui_custom_panel_background">#FF000000</color>
-
-    <!-- -->	
-    <color name="emui_tab_title_pressed">#8fff0000</color>
-    <color name="emui_tab_title_selected">#ff00ff00</color>
-    <color name="emui_tab_title_activated">#ff0000ff</color>
-    <color name="emui_tab_title_normal">#ffffffff</color>
 </resources>
 
