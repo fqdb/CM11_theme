@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- tab字体颜色 -->
-    <color name="emui_tab_title_off">#99ffffff</color>
-    <color name="emui_tab_title_on">#ffffffff</color>
+    <!-- Bottom tab -->
+    <color name="emui_tab_title_off">#ff808080</color>
+    <color name="emui_tab_title_on">#ff000000</color>
 
-    <!-- list第一行字体颜色 -->
+    <!-- list -->
     <color name="emui_list_primary_default">#d8ffffff</color>
-    <!-- list第二行字体颜色 -->
+    <!-- list -->
     <color name="emui_list_separator_default">#a5ffffff</color>
 
-    <!-- toolbar字体颜色 -->
+    <!-- toolbar -->
     <color name="menuitem_default_checkedcolor">#ff28c0c6</color>
     <color name="menuitem_default_uncheckedcolor">#ffffffff</color>
 
@@ -63,14 +63,14 @@
     <color name="emui_text_light">#ffffff</color>
 
     <color name="emui_text_dark">#d9ffffff</color>
-    <!-- 警告对话框标题字体颜色-->
+    <!-- -->
     <color name="emui_dialog_title_text_Color">#E5ffffff</color>
-    <!-- 警告对话框内容字体颜色-->
+    <!-- -->
     <color name="emui_message_text_color">#99ffffff</color>
-    <!-- 按钮字体颜色-->
+    <!-- -->
     <color name="emui_button_text_color">#D8ffffff</color>
     <color name="emui_button_text_disabled">#41ffffff</color>
-    <!-- 弹出框字体颜色-->
+    <!-- -->
     <color name="emui_popmenu_text_color">#ccffffff</color>
 
     <color name="emui_bright_foreground_dark_disabled">#19ffffff</color>
@@ -84,7 +84,7 @@
     <color name="emui_hint_foreground">#ffffffff</color>
     <!-- text inverse color for disalbed status-->
     <color name="emui_text_inverse_disable_light">#ffffffff</color>
-    <!-- 时间轴字体颜色 -->
+    <!--  -->
     <color name="emui_secondary_text_dark">#a5ffffff</color>
     <!-- secondary text color for disable 10% dark-->
     <color name="emui_secondary_text_dark_disabled">#4cffffff</color>
@@ -106,34 +106,34 @@
     <color name="emui_background_light">#ffffffff</color>
 
     <!-- For ActionBar -->
-    <!-- action bar字体颜色 -->
-    <color name="emui_action_bar_title_text_color">#ffffffff</color>
+    <!-- action bar -->
+    <color name="emui_action_bar_title_text_color">#ff323232</color>
    
-    <!-- fastscroll字体颜色 -->
+    <!-- fastscroll -->
     <color name="emui_label_primary_text">#ffffffff</color>
     <!-- DTS2014032001386 huangbangbang/00191767 20140320 end -->
     <color name="emui_dialog_blue_light">#ffffffff</color>
     <color name="transparent">#00ffffff</color>
 
-    <!-- 弹出框分割线颜色 -->
+    <!--  -->
     <color name="dim_foreground_inverse_emui">#ffffff</color>
     <color name="bright_foreground_emui">#ffffffff</color>
     <color name="dim_foreground_disabled_emui">#80ffffff</color>
     <color name="dim_foreground_emui">#ffffff</color>
 
-    <!-- subtab标题颜色 -->
+    <!-- subtab -->
     <color name="sub_tab_title_selected_pressed_emui">#80ffffff</color>
     <color name="sub_tab_title_selected_emui">#ffffffff</color>
     <color name="sub_tab_title_activated_pressed_emui">#59ffffff</color>
     <color name="sub_tab_title_activated_emui">#b2ffffff</color>
 
-    <!-- spinner字体颜色 -->
+    <!-- spinner -->
     <color name="emui_spinner_item_default">#d8ffffff</color>
     <color name="emui_spinner_item_pressed">#6bffffff</color>
     <color name="emui_spinner_item_disabled">#3fffffff</color>
 
-    <!-- 时间轴字体颜色 -->
-    <color name="emui_time_axis_info_default">#7fffffff</color>
+    <!-- -->
+    <color name="emui_time_axis_info_default">#ffffffff</color>
 
     <!--RIGO_UI Modification -->
     <color name="emui_numberpicker_select_textcolor">#ffffffff</color>   
@@ -150,10 +150,10 @@
     <color name="url_line_color">#20ffffff</color>
     <color name="url_txt_color">#85ffffff</color>
 
-    <!--控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
+    <!-- -->
     <color name="emui_custom_panel_background">#FF000000</color>
 
-    <!--控制tab字体颜色几种状态颜色值 -->	
+    <!-- -->	
     <color name="emui_tab_title_pressed">#8fff0000</color>
     <color name="emui_tab_title_selected">#ff00ff00</color>
     <color name="emui_tab_title_activated">#ff0000ff</color>

@@ -1,26 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- 在线主题详情 分类标题 字符颜色 -->
-    <color name="category_title_color">#D8bec1c4</color>
+    <color name="category_title_color">#ffffffff</color>
     <!-- 在线主题详情 更多 字符颜色 -->
-    <color name="more_title_press">#52bec1c4</color>
-    <color name="more_title_not_press">#A5bec1c4</color>
-    <!-- 混搭桌面壁纸中最 点击更多之后的sub tab中的更多选项中list列表 字体颜色 -->
-    <color name="theme_list_title_color">#ffffff</color>
-    <!-- 在线主题推荐中 主题名称 字符颜色 -->
-    <color name="theme_title_color">#D8bec1c4</color>
+    <color name="more_title_press">#ff323232</color>
+    <color name="more_title_not_press">#ffbebebe</color>
+    <!-- More in customize theme screen -->
+    <color name="theme_list_title_color">#ff323232</color>
+    <!-- Theme category title colour -->
+    <color name="theme_title_color">#ffffffff</color>
     <!-- 在线主题推荐中 主题下面的价钱，主题详情标题下面的信息描述 及混搭样式中list第二行文字等 字符颜色 -->
-    <color name="small_text_color">#A5bec1c4</color>
+    <color name="small_text_color">#ffbebebe</color>
 
+    <!-- Customize screen current category selected text colour -->
+    <color name="current_text_color">#ffffffff</color>
+    <!-- Normal category title colour -->
+    <color name="diy_item_textcolor">#ffbebebe</color> 
 
-    <!-- 混搭样式 第一行title 高亮 状态字符 -->
-    <color name="current_text_color">#33b5e5</color>
-    <!-- 混搭样式 第一行title normal状态字符 -->
-    <color name="diy_item_textcolor">#D8bec1c4</color> 
-
-    <!-- 华为账号 list 按下状态颜色 -->
-    <color name="user_info">#0Cbec1c4</color>
-    <!-- 华为账号 字符 -->
+    <!-- Huawei account list 按下状态颜色 -->
+    <color name="user_info">#ffbec1c4</color>
+    <!-- Huawei account 字符 -->
     <color name="more_title_color">#A5bec1c4</color>
 
     <!-- 在线主题全屏预览时 loading 字符 -->
@@ -41,8 +40,6 @@
     <color name="progress_color">#FFd99536</color>
     <!-- 在线主题 无主题时 系统提示字符颜色 -->
     <color name="no_resource_text_color">#99bec1c4</color>
-
-
     <!-- 在线主题详情 版本与时间 字符颜色 -->
     <color name="theme_preview_info_title_color">#D8bec1c4</color>
 
@@ -50,11 +47,11 @@
     <color name="dialog_text_message_title_color">#E6bec1c4</color>
     <!-- 在线壁纸 详情 弹出框中 设计者等细体 字符颜色 -->
     <color name="dialog_text_message_color">#99bec1c4</color>
-    <!-- 应用壁纸的 应用 字符色值 -->
-    <color name="wallpaper_menu_text">#FFB3AEAA</color>
+    <!-- Wallpaper picker title 'recommended' -->
+    <color name="wallpaper_menu_text">#ffffffff</color>
 
-    <!-- 杂志锁屏有更新时预览界面 提示未更新时提示字符 -->
-    <color name="magazine_tip_color">#a6bec1c4</color>
+    <!-- Keep Magazine unlock prompt text colour -->
+    <color name="magazine_tip_color">#ffffffff</color>
     <!-- 杂志锁屏有更新时预览界面 提示标签字符 -->
     <color name="magazine_button_color">#33bec1c4</color>
     <!-- 杂志锁屏更新界面 分类标题 字符 -->
