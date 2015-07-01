@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pop up font colour -->
+    <color name="emui_button_text_color">#ffffffff</color>
+    <color name="emui_button_text_disabled">#D8ffffff</color>
+	
+	<color name="emui_popmenu_text_color">#ccffffff</color>
+    <!-- Timeline font colour -->
+    <color name="emui_time_axis_info_default">#ffffff</color>
+	
+	<!-- A light Emui shade of blue -->
+    <color name="emui_blue_light">#ffffffff</color>
+    <!-- hint text color-->
+    <color name="emui_hint_foreground">#ffffffff</color>
+	<!-- text inverse color for disalbed status-->
+    <color name="emui_text_inverse_disable_light">#ffffffff</color>
+    <!-- ʱݤסؖͥҕɫ -->
+    <color name="emui_secondary_text_dark">#a5ffffff</color>
+    <!-- secondary text color for disable 10% dark-->
+    <color name="emui_secondary_text_dark_disabled">#4cffffff</color>
+    <!-- primary text color for disable 10% dark-->
+    <color name="emui_primary_text_dark_disabled">#4cffffff</color>
+    <!-- A light Emui shade of green -->
+    <color name="emui_green_light">#ffffffff</color>
+    <!-- A dark Emui shade of blue -->
+    <color name="emui_blue_dark">#ffffffff</color>
+    <!-- A dark Emui shade of green -->
+    <color name="emui_green_dark">#ffffffff</color>
+    <!-- foreground color for windows -->
+    <color name="emui_bright_foreground_light">#ffffffff</color>
+    <!-- Inverse foreground color for windows -->
+    <color name="emui_bright_foreground_light_inverse">#ffffffff</color>
+    <!-- RIGO_UI Modification -->
+    <color name="emui_bright_foreground_light_inverse_alpha">#8fffffff</color>
+    <!-- DTS2014030409348 zhangxinming/00181848 20140304 end  -->
+    <color name="emui_background_light">#ffffffff</color>
+	<!-- no description -->
+    <color name="hw_color">#ffffffff</color>
+    <color name="hw_color_inverse">#ffffffff</color>
+	<color name="hw_black">#ffffffff</color>
+    <color name="hw_white">#ffffffff</color>
+    <color name="hw_gray_a">#ffffffff</color>
+    <color name="hw_black_a">#ffffffff</color>
+    <color name="hw_black_b">#ffffffff</color>
+    <color name="hw_unread_bgcolor">#ffffffff</color>
+    <color name="hw_read_bgcolor">#ffffffff</color>
+    <color name="hw_dkgray">#ffffffff</color>
+    <color name="hw_ampm_off">#ffffffff</color>    
+    <color name="hw_ampm_on">#ffffffff</color>
+    <color name="hw_ltgrey">#ffffffff</color>
+    <color name="hw_gray_b">#ffffff</color>
+    <color name="hw_gray_c">#ffffffff</color>
+    <color name="hw_gray_d">#ffffffff</color>
+    <color name="hw_canvas_color">#a5ffffff</color>
+    <color name="hw_mauve_a">#ffffffff</color>        
+    <color name="hw_title_header_background">#ffffffff</color>
+    <color name="hw_title_header_text">#ffffffff</color>
+    <color name="textColor_dialer_highlight">#ffffffff</color>                       
+    <color name="hw_button_text">#ffffffff</color>                       
+    <color name="voicemail_background_theme">#ffffffff</color>                       
+    <color name="hw_menu_icon_focused">#ffffffff</color>                       
+    <color name="hw_menu_icon_pressed">#ffffffff</color>                       
+    <color name="hw_mainmenu_focused">#ffffffff</color>                       
+    <color name="hw_mainmenu_pressed">#ffffffff</color>                       
+    <color name="hw_emergency_dialer_bg">#ffffffff</color>
+    <color name="emui_text_light">#ffffff</color>
+    <color name="emui_text_dark">#d9ffffff</color>
+
+	<!-- no description -->
+	<color name="emui_dialog_title_text_Color">#E5ffffff</color>
+    <color name="emui_message_text_color">#99ffffff</color>
+	
+	<color name="emui_bright_foreground_dark_disabled">#19ffffff</color>
+	<color name="emui_text_disabled">#19ffffff</color>
+	<color name="emui_highlighted_text">#80ffffff</color>
+	
+    <!-- spinner font colour -->
+    <color name="emui_spinner_item_default">#d8ffffff</color>
+    <color name="emui_spinner_item_pressed">#6bffffff</color>
+    <color name="emui_spinner_item_disabled">#3fffffff</color>
+    <!-- setting sectionlist标题字体 省电管理sectionlist -->
+    <color name="emui_list_separator_default">#D8ffffff</color>
+    <!-- setting WLAN界面第一行list字体 蓝牙第一行list 手机管家超级省电settinglist颜色 -->
+    <color name="emui_list_primary_default">#ffffff</color>
+    <!-- toolbar字体颜色 日历 主题管理 信息 -->
+    <color name="menuitem_default_checkedcolor">#ffffff</color>
+    <color name="menuitem_default_uncheckedcolor">#d6d6d6</color>
+    <!-- 控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
+	<color name="emui_custom_panel_background">#ff000000</color>
+    <color name="hw_title_header_background">#ffce1111</color>
+    <color name="hw_title_header_text">#ff323232</color>
+	
+	<color name="emui_action_bar_title_text_color">#ffffffff</color>
+	<!-- fastscroll -->
+    <color name="emui_label_primary_text">#ffffffff</color>
+	
+	<color name="emui_dialog_blue_light">#ffffffff</color>
+    <color name="transparent">#00ffffff</color>
+	<color name="dim_foreground_inverse_emui">#ffffff</color>
+    <color name="bright_foreground_emui">#ffffffff</color>
+    <color name="dim_foreground_disabled_emui">#80ffffff</color>
+    <color name="dim_foreground_emui">#ffffff</color>
+	
+	<color name="sub_tab_title_selected_pressed_emui">#80ffffff</color>
+    <color name="sub_tab_title_selected_emui">#ffffffff</color>
+    <color name="sub_tab_title_activated_pressed_emui">#59ffffff</color>
+    <color name="sub_tab_title_activated_emui">#b2ffffff</color>
+	
+	<color name="emui_tab_title_pressed">#8fff0000</color>
+    <color name="emui_tab_title_selected">#ff00ff00</color>
+    <color name="emui_tab_title_activated">#ff0000ff</color>
+    <color name="emui_tab_title_normal">#ffffffff</color>
+
+    <!-- 设置时间 -->
+    <color name="emui_numberpicker_select_textcolor">#ffffffff</color>   
+    <color name="emui_numberpicker_small_textcolor">#66ffffff</color>
+    <color name="emui_numberpicker_normal_textcolor">#d9ffffff</color>
+	<color name="notification_sub_text_color">#ffbebebe</color>
+    <color name="notification_event_text_color">#ffbebebe</color>
+	
+	<color name="emui_numberpicker_select_textcolor">#ffffffff</color>   
+    <color name="emui_numberpicker_small_textcolor">#66ffffff</color>
+    <color name="emui_numberpicker_normal_textcolor">#d9ffffff</color> 
+  
+    <color name="emui_button_text_disabled_inverse">#41ffffff</color>
+    <color name="emui_button_text_pressed_inverse">#D8ffffff</color>
+    <color name="emui_button_text_color_inverse">#D8ffffff</color>
+    <color name="emui_numberpicker_small_textcolor_dark">#66ffffff</color>
+    <color name="emui_numberpicker_normal_textcolor_dark">#d9ffffff</color>
+    <color name="url_background">#00ffffff</color>
+    <color name="url_txt_color_normal">#30ffffff</color>
+    <color name="url_line_color">#20ffffff</color>
+    <color name="url_txt_color">#85ffffff</color>
+</resources>
+

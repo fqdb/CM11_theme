@@ -7,7 +7,7 @@
     <color name="emui_list_separator_default">#ffe3e3e3</color>
     <!-- setting WLAN界面第一行list字体 蓝牙第一行list 手机管家超级省电settinglist颜色 -->
     <color name="emui_list_primary_default">#ffffff</color>
-    <!-- setting二级界面第二行list颜色 -->
+    <!-- Settings menu sub text colour -->
     <color name="emui_secondary_text_dark">#ffbababa</color>
 	
 	<!-- Popup button color-->
@@ -72,10 +72,8 @@
     <color name="emui_numberpicker_small_textcolor">#66000000</color>
     <color name="emui_numberpicker_normal_textcolor">#d9000000</color>
 
-    <!-- Unused faststroll font colour -->
+    <!-- Unused fastscroll font colour -->
     <color name="emui_label_primary_text">#ffffffff</color>
-    <!-- Pop-up boxes text colour PURPLE TEST-->
-    <color name="emui_popmenu_text_color">#ffff00cc</color>
 
 </resources>
 

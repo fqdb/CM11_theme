@@ -7,6 +7,8 @@
 * Make theme manager bottom actionbar text black
 * Make call log time black
 * Make SMS titles (contact name) black
+* Fix SMS contact details readability
+* Remove avatar mask
 * Make sms received time black in main list
 * Theme SMS input fiels and text bubbles
 * Make contact avatars square
