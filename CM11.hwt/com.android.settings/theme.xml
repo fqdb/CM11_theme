@@ -11,10 +11,10 @@
     <!-- Developer options explanations -->
     <color name="category_emotion">#ffffffff</color>
 
-    <!-- 日期和时间里面的右边时间不可用状态字体颜色 -->
+    <!-- Date and time inside the right side time is unavailable font color -->
     <color name="emui_summary_text_dark_disabled">#ffffff</color>
-    <!-- 日期和时间里面的右边时间点击状态字体颜色 -->
+    <!-- Date and time inside the font color click on the right time -->
     <color name="emui_text_summary_dark">#ffffff</color>
-    <!-- 日期和时间里面的右边时间正常状态字体颜色 -->
+    <!-- Date and time inside the right side of the time the normal state font color -->
     <color name="emui_list_summary_default">#ffffff</color>
 </hwthemes>

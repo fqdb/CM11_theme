@@ -12,13 +12,12 @@
 	<color name="transparent">#00ffffff</color>
 
     <!-- text inverse color for disabled status-->
-    <color name="emui_text_inverse_disable_light">#ffffffff</color>
-    <!-- ʱݤסؖͥҕɫ -->
-    <color name="emui_secondary_text_dark">#a5ffffff</color>
+    <color name="emui_text_inverse_disable_light">#323232</color>
+    <color name="emui_secondary_text_dark">#000000</color>
     <!-- secondary text color for disable 10% dark-->
-    <color name="emui_secondary_text_dark_disabled">#4cffffff</color>
+    <color name="emui_secondary_text_dark_disabled">#323232</color>
     <!-- primary text color for disable 10% dark-->
-    <color name="emui_primary_text_dark_disabled">#4cffffff</color>
+    <color name="emui_primary_text_dark_disabled">#323232</color>
 	
 	<!-- Contact picker list text colour -->
 	<color name="emui_text_light">#000000</color>
