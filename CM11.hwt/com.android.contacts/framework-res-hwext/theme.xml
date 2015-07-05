@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="emui_list_primary_default">#000000</color>
+	<color name="emui_list_separator_default">#000000</color>
+	<color name="menuitem_default_checkedcolor">#000000</color>
+	<color name="menuitem_default_uncheckedcolor">#000000</color>
+	<color name="emui_time_axis_info_default">#000000</color>
+	<color name="hw_button_text">#ff0080</color> <!--Test pink -->
+	<color name="emui_action_bar_title_text_color">#000000</color>
+	<color name="emui_popmenu_text_color">#11ffffff</color>
+	<color name="emui_dialog_title_text_Color">#ffffff</color>
+	<color name="transparent">#00ffffff</color>
+
+    <!-- text inverse color for disabled status-->
+    <color name="emui_text_inverse_disable_light">#ffffffff</color>
+    <!-- ʱݤסؖͥҕɫ -->
+    <color name="emui_secondary_text_dark">#a5ffffff</color>
+    <!-- secondary text color for disable 10% dark-->
+    <color name="emui_secondary_text_dark_disabled">#4cffffff</color>
+    <!-- primary text color for disable 10% dark-->
+    <color name="emui_primary_text_dark_disabled">#4cffffff</color>
+	
+	<!-- Contact picker list text colour -->
+	<color name="emui_text_light">#000000</color>
+	<color name="emui_text_dark">#000000</color>
+</resources>

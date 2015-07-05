@@ -7,8 +7,7 @@
 	<color name="dialer_search_highlightcolor">#ff33b5e5</color>
 	<!-- Timeline text colour -->
 	<color name="emui_time_axis_info_default">#ff000000</color>
-	
-	    <!-- SMS hyperlinks colour -->
+	<!-- SMS hyperlinks colour -->
     <color name="text_color_white">#ff33b5e5</color>
     <!-- SMS hyperlinks colour -->
     <color name="incoming_msg_text_color">#ff33b5e5</color>

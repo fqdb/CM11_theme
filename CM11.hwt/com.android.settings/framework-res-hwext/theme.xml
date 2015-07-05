@@ -64,7 +64,7 @@
     <color name="emui_text_light">#ffffff</color>
 
     <color name="emui_text_dark">#d9ffffff</color>
-    <!-- ޯ٦ה۰࠲Ҫؖͥ͢ҕɫ-->
+    
     <color name="emui_dialog_title_text_Color">#E5ffffff</color>
     <!-- ޯ٦ה۰࠲Śɝؖͥҕɫ-->
     <color name="emui_message_text_color">#99ffffff</color>
@@ -72,7 +72,7 @@
     <color name="emui_button_text_color">#D8ffffff</color>
     <color name="emui_button_text_disabled">#41ffffff</color>
     <!-- կԶ࠲ؖͥҕɫ-->
-    <color name="emui_popmenu_text_color">#ccffffff</color>
+    <color name="emui_popmenu_text_color">#ffffff</color>
 
     <color name="emui_bright_foreground_dark_disabled">#19ffffff</color>
 
@@ -83,7 +83,7 @@
     <color name="emui_blue_light">#ffffffff</color>
     <!-- hint text color-->
     <color name="emui_hint_foreground">#ffffffff</color>
-    <!-- text inverse color for disalbed status-->
+    <!-- text inverse color for disabled status-->
     <color name="emui_text_inverse_disable_light">#ffffffff</color>
     <!-- ʱݤסؖͥҕɫ -->
     <color name="emui_secondary_text_dark">#a5ffffff</color>
@@ -112,7 +112,6 @@
    
     <!-- fastscrollؖͥҕɫ -->
     <color name="emui_label_primary_text">#ffffffff</color>
-    <!-- DTS2014032001386 huangbangbang/00191767 20140320 end -->
     <color name="emui_dialog_blue_light">#ffffffff</color>
     <color name="transparent">#00ffffff</color>
 
