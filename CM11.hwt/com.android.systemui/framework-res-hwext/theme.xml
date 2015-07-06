@@ -88,7 +88,7 @@
     <!-- 控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
 	<color name="emui_custom_panel_background">#ff000000</color>
     <color name="hw_title_header_background">#ffce1111</color>
-    <color name="hw_title_header_text">#ff323232</color>
+    <color name="hw_title_header_text">#ffffff</color>
 	
 	<color name="emui_action_bar_title_text_color">#ffffffff</color>
 	<!-- fastscroll -->
@@ -115,8 +115,8 @@
     <color name="emui_numberpicker_select_textcolor">#ffffffff</color>   
     <color name="emui_numberpicker_small_textcolor">#66ffffff</color>
     <color name="emui_numberpicker_normal_textcolor">#d9ffffff</color>
-	<color name="notification_sub_text_color">#ffbebebe</color>
-    <color name="notification_event_text_color">#ffbebebe</color>
+	<color name="notification_sub_text_color">#bebebe</color>
+    <color name="notification_event_text_color">#bebebe</color>
 	
 	<color name="emui_numberpicker_select_textcolor">#ffffffff</color>   
     <color name="emui_numberpicker_small_textcolor">#66ffffff</color>
@@ -128,8 +128,8 @@
     <color name="emui_numberpicker_small_textcolor_dark">#66ffffff</color>
     <color name="emui_numberpicker_normal_textcolor_dark">#d9ffffff</color>
     <color name="url_background">#00ffffff</color>
-    <color name="url_txt_color_normal">#30ffffff</color>
-    <color name="url_line_color">#20ffffff</color>
-    <color name="url_txt_color">#85ffffff</color>
+    <color name="url_txt_color_normal">#33b5e5</color>
+    <color name="url_line_color">#33b5e5</color>
+    <color name="url_txt_color">#33b5e5</color>
 </resources>
 

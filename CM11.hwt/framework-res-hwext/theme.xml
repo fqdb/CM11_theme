@@ -44,7 +44,7 @@
     <!-- Warning dialog text colour -->
     <color name="emui_dialog_title_text_Color">#ffffffff</color>
     <!-- Toast notification text colour	-->
-    <color name="emui_message_text_color">#99ffffff</color>
+    <color name="emui_message_text_color">#ffffff</color>
     <!-- Popup font colour -->
     <color name="emui_button_text_disabled">#ffbebebe</color>
 	
