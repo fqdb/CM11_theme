@@ -8,10 +8,13 @@ Documentation that I've found can be found in the Documentation folder and on th
 #Features
 * Replaced stock status bar icons with CM11 ones
 * Holo Dark settings background
-* Dark status bar theme
+* Dark notification panel theme
 * CM11 quick settings icons
 * CM11/Holo style text fields, radio buttons, check boxes, sliders
-* Hidden NFC icon
+* Hidden NFC and headphones icon
 * CM11/AOSP nav bar button style
+* Holo themed contacts/dialer/messaging app
+* Holo themed Themes app
+* AOSP 4.4 style lockscreen
 
 more to be added later
