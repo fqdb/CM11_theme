@@ -15,3 +15,20 @@ Documentation that I've found can be found in the Documentation folder and on th
 * CM11/AOSP nav bar button style
 
 more to be added later
+
+#FAQ
+###Why are Huawei Home/Clock/Music/... not themed?
+Because you can easiliy replace these apps with a native Holo or Material app. Some suggestions:
+
+* Music > [Shuttle](https://play.google.com/store/apps/details?id=another.music.player), [Apollo](https://f-droid.org/repository/browse/?fdfilter=apollo&fdid=com.andrew.apollo)
+* Clock > [pick one](https://play.google.com/store/search?q=kitkat%20clock)
+* Huawei Home > [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher), [Apex Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher), [Google Now Launcher](https://play.google.com/store/apps/details?id=com.google.android.launcher)
+* Gallery, Videos > [QuickPic](https://play.google.com/store/apps/details?id=com.alensw.PicFolder)
+* Calculator > [Calcu](https://play.google.com/store/apps/details?id=com.candl.athena)
+* Calendar > [AOSP calendar](https://f-droid.org/repository/browse/?fdfilter=calendar&fdid=org.sufficientlysecure.standalonecalendar) or [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
+
+
+###I have found a bug. How to report it?
+Check if you're using the latest version and the bug is not listed already in [**todo.md**](https://github.com/fqdb/CM11_theme/blob/master/todo.md). Make a screenshot of the bug you see, describe the problem (which app, which action) and send me a message on XDA Developers or [email me](sdk16420@gmail.com).
+
+Feel free to send in suggestions for improvements as well, or add them to the repository yourself.
