@@ -8,13 +8,17 @@ Documentation that I've found can be found in the Documentation folder and on th
 #Features
 * Replaced stock status bar icons with CM11 ones
 * Holo Dark settings background
-* Dark status bar theme
+* Dark notification panel theme
 * CM11 quick settings icons
 * CM11/Holo style text fields, radio buttons, check boxes, sliders
-* Hidden NFC icon
+* Hidden NFC and headphones icon
 * CM11/AOSP nav bar button style
+* Holo themed contacts/dialer/messaging app
+* Holo themed Themes app
+* AOSP 4.4 style lockscreen
 
 more to be added later
+<<<<<<< HEAD
 
 #FAQ
 ###Why are Huawei Home/Clock/Music/... not themed?
@@ -32,3 +36,5 @@ Because you can easiliy replace these apps with a native Holo or Material app. S
 Check if you're using the latest version and the bug is not listed already in [**todo.md**](https://github.com/fqdb/CM11_theme/blob/master/todo.md). Make a screenshot of the bug you see, describe the problem (which app, which action) and send me a message on XDA Developers or [email me](sdk16420@gmail.com).
 
 Feel free to send in suggestions for improvements as well, or add them to the repository yourself.
+=======
+>>>>>>> origin/master

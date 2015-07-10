@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- 在线主题详情 分类标题 字符颜色 -->
-    <color name="category_title_color">#ffffffff</color>
+    <color name="category_title_color">#ffffff</color>
     <!-- 在线主题详情 更多 字符颜色 -->
     <color name="more_title_press">#ff323232</color>
     <color name="more_title_not_press">#ffbebebe</color>
