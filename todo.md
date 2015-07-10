@@ -1,6 +1,6 @@
-#Bugs
+#Bugs and missing features
 ##General
-* Fix power off menu colours and icons
+* Theme power off menu colours and icons
 * Theme text selection actions
 * Theme cursor colour
 
