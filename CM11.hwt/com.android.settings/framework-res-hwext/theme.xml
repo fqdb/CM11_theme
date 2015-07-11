@@ -1,77 +1,77 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <!-- tabؖͥҕɫ -->
+    <!-- tab -->
     <color name="emui_tab_title_off">#99ffffff</color>
-    <color name="emui_tab_title_on">#ffffffff</color>
+    <color name="emui_tab_title_on">#ffffff</color>
 
-    <!-- list֚һѐؖͥҕɫ -->
+    <!-- list -->
     <color name="emui_list_primary_default">#d8ffffff</color>
-    <!-- list֚׾ѐؖͥҕɫ -->
-    <color name="emui_list_separator_default">#a5ffffff</color>
+    <!-- list -->
+    <color name="emui_list_separator_default">#bebebe</color>
 
-    <!-- toolbarؖͥҕɫ -->
-    <color name="menuitem_default_checkedcolor">#ff28c0c6</color>
-    <color name="menuitem_default_uncheckedcolor">#ffffffff</color>
+    <!-- toolbar -->
+    <color name="menuitem_default_checkedcolor">#28c0c6</color>
+    <color name="menuitem_default_uncheckedcolor">#ffffff</color>
 
     <!-- A dark Emui shade of blue -->
-    <color name="hw_color">#ffffffff</color>
-    <color name="hw_color_inverse">#ffffffff</color>
+    <color name="hw_color">#ffffff</color>
+    <color name="hw_color_inverse">#ffffff</color>
 
-    <color name="hw_black">#ffffffff</color>
-    <color name="hw_white">#ffffffff</color>
+    <color name="hw_black">#ffffff</color>
+    <color name="hw_white">#ffffff</color>
 
-    <color name="hw_gray_a">#ffffffff</color>
+    <color name="hw_gray_a">#ffffff</color>
 
-    <color name="hw_black_a">#ffffffff</color>
-    <color name="hw_black_b">#ffffffff</color>
+    <color name="hw_black_a">#ffffff</color>
+    <color name="hw_black_b">#ffffff</color>
 
-    <color name="hw_unread_bgcolor">#ffffffff</color>
-    <color name="hw_read_bgcolor">#ffffffff</color>
+    <color name="hw_unread_bgcolor">#ffffff</color>
+    <color name="hw_read_bgcolor">#ffffff</color>
 
-    <color name="hw_dkgray">#ffffffff</color>
+    <color name="hw_dkgray">#ffffff</color>
 
-    <color name="hw_ampm_off">#ffffffff</color>    
-    <color name="hw_ampm_on">#ffffffff</color>
-    <color name="hw_ltgrey">#ffffffff</color>
+    <color name="hw_ampm_off">#ffffff</color>    
+    <color name="hw_ampm_on">#ffffff</color>
+    <color name="hw_ltgrey">#ffffff</color>
                    
-    <color name="hw_gray_b">#ffffff</color>
-    <color name="hw_gray_c">#ffffffff</color>
+    <color name="hw_gray_b">#ffff</color>
+    <color name="hw_gray_c">#ffffff</color>
 
-    <color name="hw_gray_d">#ffffffff</color>
+    <color name="hw_gray_d">#ffffff</color>
 
     <color name="hw_canvas_color">#a5ffffff</color>
 
-    <color name="hw_mauve_a">#ffffffff</color>        
+    <color name="hw_mauve_a">#ffffff</color>        
 
-    <color name="hw_title_header_background">#ffffffff</color>
-    <color name="hw_title_header_text">#ffffffff</color>
+    <color name="hw_title_header_background">#ffffff</color>
+    <color name="hw_title_header_text">#ffffff</color>
 
-    <color name="textColor_dialer_highlight">#ffffffff</color>                       
+    <color name="textColor_dialer_highlight">#ffffff</color>                       
 
-    <color name="hw_button_text">#ffffffff</color>                       
+    <color name="hw_button_text">#ffffff</color>                       
 
-    <color name="voicemail_background_theme">#ffffffff</color>                       
+    <color name="voicemail_background_theme">#ffffff</color>                       
 
-    <color name="hw_menu_icon_focused">#ffffffff</color>                       
-    <color name="hw_menu_icon_pressed">#ffffffff</color>                       
+    <color name="hw_menu_icon_focused">#ffffff</color>                       
+    <color name="hw_menu_icon_pressed">#ffffff</color>                       
 
-    <color name="hw_mainmenu_focused">#ffffffff</color>                       
-    <color name="hw_mainmenu_pressed">#ffffffff</color>                       
+    <color name="hw_mainmenu_focused">#ffffff</color>                       
+    <color name="hw_mainmenu_pressed">#ffffff</color>                       
 
-    <color name="hw_emergency_dialer_bg">#ffffffff</color>
+    <color name="hw_emergency_dialer_bg">#ffffff</color>
 
     <color name="emui_text_light">#ffffff</color>
 
     <color name="emui_text_dark">#d9ffffff</color>
     
     <color name="emui_dialog_title_text_Color">#E5ffffff</color>
-    <!-- ޯ٦ה۰࠲Śɝؖͥҕɫ-->
+    <!-- -->
     <color name="emui_message_text_color">#99ffffff</color>
-    <!-- дťؖͥҕɫ-->
-    <color name="emui_button_text_color">#D8ffffff</color>
+    <!-- -->
+    <color name="emui_button_text_color">#ffffff</color>
     <color name="emui_button_text_disabled">#41ffffff</color>
-    <!-- կԶ࠲ؖͥҕɫ-->
+    <!-- -->
     <color name="emui_popmenu_text_color">#ffffff</color>
 
     <color name="emui_bright_foreground_dark_disabled">#19ffffff</color>
@@ -84,59 +84,58 @@
     <!-- hint text color-->
     <color name="emui_hint_foreground">#ffffffff</color>
     <!-- text inverse color for disabled status-->
-    <color name="emui_text_inverse_disable_light">#ffffffff</color>
-    <!-- ʱݤסؖͥҕɫ -->
-    <color name="emui_secondary_text_dark">#a5ffffff</color>
+    <color name="emui_text_inverse_disable_light">#323232</color>
+    <color name="emui_secondary_text_dark">#323232</color>
+	
     <!-- secondary text color for disable 10% dark-->
-    <color name="emui_secondary_text_dark_disabled">#4cffffff</color>
+    <color name="emui_secondary_text_dark_disabled">#323232</color>
     <!-- primary text color for disable 10% dark-->
-    <color name="emui_primary_text_dark_disabled">#4cffffff</color>
+    <color name="emui_primary_text_dark_disabled">#323232</color>
     <!-- A light Emui shade of green -->
     <color name="emui_green_light">#ffffffff</color>
     <!-- A dark Emui shade of blue -->
     <color name="emui_blue_dark">#ffffffff</color>
     <!-- A dark Emui shade of green -->
-    <color name="emui_green_dark">#ffffffff</color>
+    <color name="emui_green_dark">#669900</color>
     <!-- foreground color for windows -->
-    <color name="emui_bright_foreground_light">#ffffffff</color>
+    <color name="emui_bright_foreground_light">#ffffff</color>
     <!-- Inverse foreground color for windows -->
-    <color name="emui_bright_foreground_light_inverse">#ffffffff</color>
+    <color name="emui_bright_foreground_light_inverse">#ffffff</color>
     <!-- RIGO_UI Modification -->
     <color name="emui_bright_foreground_light_inverse_alpha">#8fffffff</color>
     <!-- DTS2014030409348 zhangxinming/00181848 20140304 end  -->
-    <color name="emui_background_light">#ffffffff</color>
+    <color name="emui_background_light">#ffffff</color>
 
     <!-- For ActionBar -->
-    <!-- action barؖͥҕɫ -->
-    <color name="emui_action_bar_title_text_color">#ffffffff</color>
+    <color name="emui_action_bar_title_text_color">#000000</color>
    
-    <!-- fastscrollؖͥҕɫ -->
-    <color name="emui_label_primary_text">#ffffffff</color>
-    <color name="emui_dialog_blue_light">#ffffffff</color>
+    <!-- fastscroll -->
+    <color name="emui_label_primary_text">#ffffff</color>
+    <color name="emui_dialog_blue_light">#ffffff</color>
     <color name="transparent">#00ffffff</color>
 
-    <!-- կԶ࠲ؖٮПҕɫ -->
+    <!-- -->
     <color name="dim_foreground_inverse_emui">#ffffff</color>
     <color name="bright_foreground_emui">#ffffffff</color>
     <color name="dim_foreground_disabled_emui">#80ffffff</color>
     <color name="dim_foreground_emui">#ffffff</color>
 
-    <!-- subtabҪ͢ҕɫ -->
+    <!-- subtab -->
     <color name="sub_tab_title_selected_pressed_emui">#80ffffff</color>
-    <color name="sub_tab_title_selected_emui">#ffffffff</color>
+    <color name="sub_tab_title_selected_emui">#ffffff</color>
     <color name="sub_tab_title_activated_pressed_emui">#59ffffff</color>
     <color name="sub_tab_title_activated_emui">#b2ffffff</color>
 
-    <!-- spinnerؖͥҕɫ -->
+    <!-- spinner-->
     <color name="emui_spinner_item_default">#d8ffffff</color>
     <color name="emui_spinner_item_pressed">#6bffffff</color>
     <color name="emui_spinner_item_disabled">#3fffffff</color>
 
-    <!-- ʱݤסؖͥҕɫ -->
-    <color name="emui_time_axis_info_default">#7fffffff</color>
+    <!-- timeline -->
+    <color name="emui_time_axis_info_default">#ffffff</color>
 
     <!--RIGO_UI Modification -->
-    <color name="emui_numberpicker_select_textcolor">#ffffffff</color>   
+    <color name="emui_numberpicker_select_textcolor">#ffffff</color>   
     <color name="emui_numberpicker_small_textcolor">#66ffffff</color>
     <color name="emui_numberpicker_normal_textcolor">#d9ffffff</color> 
   
@@ -150,13 +149,13 @@
     <color name="url_line_color">#20ffffff</color>
     <color name="url_txt_color">#85ffffff</color>
 
-    <!--࠘׆tabԃڌ֨ѳްͼ #00000000ʱΪڌ֨ѳް Ǥ̻Ϊٟ˹ģ۽ǽֽЧڻ -->
-    <color name="emui_custom_panel_background">#FF000000</color>
+    <!-- -->
+    <color name="emui_custom_panel_background">#000000</color>
 
-    <!--࠘׆tabؖͥҕɫܸז״̬ҕɫֵ -->	
+    <!-- -->	
     <color name="emui_tab_title_pressed">#8fff0000</color>
-    <color name="emui_tab_title_selected">#ff00ff00</color>
-    <color name="emui_tab_title_activated">#ff0000ff</color>
-    <color name="emui_tab_title_normal">#ffffffff</color>
+    <color name="emui_tab_title_selected">#00ff00</color>
+    <color name="emui_tab_title_activated">#0000ff</color>
+    <color name="emui_tab_title_normal">#ffffff</color>
 </resources>
 

@@ -11,14 +11,18 @@
 ##Themes
 * Search field text should be white
 * Search button is invisible
-* Action bar bottom text 'apply' in customize menu not well readable
+* Action bar bottom text 'apply' is white
 
-##Contacts
+##Contacts/Messaging/Dialer
 * Make contact avatars square
 * Popup menu description text is black
 * Popup menu background is coloured black
-* Some disabled menu entries are coloured white (not readable)
+* Settings > copy contacts; popup menu list entries coloured black
+* Messaging > settings > limits coloured white when limits disabled
+* Call settings: list items are white text on white bg
 
 ##InCallUI
-* Fix label colours on button press
-* Fix 9 patch png for end call pressed in notification
+* Theme speakerphone icon in notification panel
+
+##Settings
+* 'Remove account' icon is black and has wrong vertical alignment
