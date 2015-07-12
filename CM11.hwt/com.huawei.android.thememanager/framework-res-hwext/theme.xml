@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Bottom tab -->
-    <color name="emui_tab_title_off">#ab000000</color>
+    <color name="emui_tab_title_off">#323232</color>
     <color name="emui_tab_title_on">#000000</color>
 
     <!-- list -->
@@ -10,19 +10,19 @@
     <color name="emui_list_separator_default">#a5ffffff</color>
 
     <!-- toolbar -->
-    <color name="menuitem_default_checkedcolor">#ff28c0c6</color>
-    <color name="menuitem_default_uncheckedcolor">#ffffffff</color>
+    <color name="menuitem_default_checkedcolor">#33b5e5</color>
+    <color name="menuitem_default_uncheckedcolor">#ffffff</color>
 
-    <color name="hw_title_header_background">#ffffffff</color>
-    <color name="hw_title_header_text">#ffffffff</color>
+    <color name="hw_title_header_background">#ffffff</color>
+    <color name="hw_title_header_text">#ffffff</color>
 
-    <color name="hw_button_text">#ffffffff</color>                       
+    <color name="hw_button_text">#ffffff</color>                       
 
-    <color name="hw_menu_icon_focused">#ffffffff</color>                       
-    <color name="hw_menu_icon_pressed">#ffffffff</color>                       
+    <color name="hw_menu_icon_focused">#ffffff</color>                       
+    <color name="hw_menu_icon_pressed">#ffffff</color>                       
 
-    <color name="hw_mainmenu_focused">#ffffffff</color>                       
-    <color name="hw_mainmenu_pressed">#ffffffff</color>                       
+    <color name="hw_mainmenu_focused">#ffffff</color>                       
+    <color name="hw_mainmenu_pressed">#ffffff</color>                       
 
     <color name="emui_text_light">#ffffff</color>
 
@@ -43,11 +43,11 @@
 
     <color name="emui_highlighted_text">#80ffffff</color>
     <!-- A light Emui shade of blue -->
-    <color name="emui_blue_light">#ffffffff</color>
+    <color name="emui_blue_light">#ffffff</color>
     <!-- hint text color-->
-    <color name="emui_hint_foreground">#ffffffff</color>
+    <color name="emui_hint_foreground">#ffffff</color>
     <!-- text inverse color for disalbed status-->
-    <color name="emui_text_inverse_disable_light">#ffffffff</color>
+    <color name="emui_text_inverse_disable_light">#ffffff</color>
     <!--  -->
     <color name="emui_secondary_text_dark">#a5ffffff</color>
     <!-- secondary text color for disable 10% dark-->
@@ -59,9 +59,9 @@
     <color name="emui_action_bar_title_text_color">#ffffff</color>
 
     <!-- subtab -->
-    <color name="sub_tab_title_selected_pressed_emui">#ab000000</color>
+    <color name="sub_tab_title_selected_pressed_emui">#bebebe</color>
     <color name="sub_tab_title_selected_emui">#000000</color>
-    <color name="sub_tab_title_activated_pressed_emui">#ab000000</color>
+    <color name="sub_tab_title_activated_pressed_emui">#bebebe</color>
     <color name="sub_tab_title_activated_emui">#000000</color>
 
 </resources>

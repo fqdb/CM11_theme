@@ -17,27 +17,25 @@
     <!-- toolbar字体颜色 日历 主题管理 信息 -->
     <color name="menuitem_default_checkedcolor">#99ffffff</color>
     <color name="menuitem_default_uncheckedcolor">#99ffffff</color>
-    <!-- Phone manager app text colour TEST ORANGE-->
-    <color name="hw_black">#ffff5400</color>
     <!-- Timeline font colour -->
-    <color name="emui_time_axis_info_default">#ffffffff</color>
+    <color name="emui_time_axis_info_default">#ffffff</color>
     <!-- Pop up box divide colour -->
     <color name="dim_foreground_inverse_emui">#bababa</color>
     <color name="bright_foreground_emui">#ffbababa</color>
     <color name="dim_foreground_disabled_emui">#80ffffff</color> 
     <color name="dim_foreground_emui">#ffffff</color>
     <!-- action bar font colour - edit contact - Theme details font -->
-    <color name="emui_action_bar_title_text_color">#ffffffff</color>
+    <color name="emui_action_bar_title_text_color">#ffffff</color>
     <!-- 短信联系人下拉后电话号码字体颜色和下面竖向分割线颜色 -->
-    <color name="emui_background_light">#ffffffff</color>
+    <color name="emui_background_light">#ffffff</color>
     <!-- tab colour -->
-    <color name="emui_bright_foreground_light_inverse">#ffbebebe</color>
+    <color name="emui_bright_foreground_light_inverse">#bebebe</color>
     <!-- tab pressed colour -->
     <color name="emui_bright_foreground_light_inverse_alpha">#8fbebebe</color>
     <!-- bluetooth not connected primary text color for disable 10% dark-->
-    <color name="emui_primary_text_dark_disabled">#ff323232</color>
+    <color name="emui_primary_text_dark_disabled">#323232</color>
     <!-- sim car unavailable secondary text color for disable 10% dark-->
-    <color name="emui_secondary_text_dark_disabled">#4c323232</color>
+    <color name="emui_secondary_text_dark_disabled">#bebebe</color>
 
     <!-- language input-->
     <color name="emui_text_disabled">#aaffffff</color>
@@ -50,12 +48,12 @@
 	
     <!--Control tab font color color value in several states-->	
     <color name="emui_tab_title_pressed">#8fffffff</color>
-    <color name="emui_tab_title_selected">#ffffffff</color>
-    <color name="emui_tab_title_activated">#ffffffff</color>
-    <color name="emui_tab_title_normal">#ffffffff</color>
+    <color name="emui_tab_title_selected">#ffffff</color>
+    <color name="emui_tab_title_activated">#ffffff</color>
+    <color name="emui_tab_title_normal">#ffffff</color>
     <!-- subtab title colour -->
     <color name="sub_tab_title_selected_pressed_emui">#80ffffff</color>
-    <color name="sub_tab_title_selected_emui">#ffffffff</color>
+    <color name="sub_tab_title_selected_emui">#ffffff</color>
     <color name="sub_tab_title_activated_pressed_emui">#59ffffff</color>
     <color name="sub_tab_title_activated_emui">#b2ffffff</color>
     <!-- spinner font colour -->
@@ -65,15 +63,15 @@
 
     <!-- Control tab fixed background image #00000000 Gaussian blur effect applied on wallpaper -->
     <color name="emui_custom_panel_background">#00000000</color>
-    <color name="hw_title_header_background">#ffffffff</color>
-    <color name="hw_title_header_text">#ffffffff</color>
+    <color name="hw_title_header_background">#ffffff</color>
+    <color name="hw_title_header_text">#ffffff</color>
 	
      <!-- Date Picker and Time Picker -->  
     <color name="emui_numberpicker_small_textcolor">#66000000</color>
     <color name="emui_numberpicker_normal_textcolor">#d9000000</color>
 
     <!-- Unused fastscroll font colour -->
-    <color name="emui_label_primary_text">#ffffffff</color>
+    <color name="emui_label_primary_text">#ffffff</color>
 
 </resources>
 

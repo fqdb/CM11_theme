@@ -3,22 +3,22 @@
     <!-- 在线主题详情 分类标题 字符颜色 -->
     <color name="category_title_color">#ffffff</color>
     <!-- 在线主题详情 更多 字符颜色 -->
-    <color name="more_title_press">#ff323232</color>
-    <color name="more_title_not_press">#ffbebebe</color>
+    <color name="more_title_press">#323232</color>
+    <color name="more_title_not_press">#bebebe</color>
     <!-- More in customize theme screen -->
-    <color name="theme_list_title_color">#ff323232</color>
+    <color name="theme_list_title_color">#323232</color>
     <!-- Theme category title colour -->
-    <color name="theme_title_color">#ffffffff</color>
+    <color name="theme_title_color">#ffffff</color>
     <!-- 在线主题推荐中 主题下面的价钱，主题详情标题下面的信息描述 及混搭样式中list第二行文字等 字符颜色 -->
-    <color name="small_text_color">#ffbebebe</color>
+    <color name="small_text_color">#bebebe</color>
 
     <!-- Customize screen current category selected text colour -->
-    <color name="current_text_color">#ffffffff</color>
+    <color name="current_text_color">#ffffff</color>
     <!-- Normal category title colour -->
-    <color name="diy_item_textcolor">#ffbebebe</color> 
+    <color name="diy_item_textcolor">#bebebe</color> 
 
     <!-- Huawei account list 按下状态颜色 -->
-    <color name="user_info">#ffbec1c4</color>
+    <color name="user_info">#bec1c4</color>
     <!-- Huawei account 字符 -->
     <color name="more_title_color">#A5bec1c4</color>
 
@@ -37,9 +37,9 @@
     <!-- 在线主题评论 用户评论 字符颜色 -->
     <color name="comment_content_color">#A5bec1c4</color>
     <!-- 在线主题下载时 进度条 颜色 -->
-    <color name="progress_color">#FFd99536</color>
+    <color name="progress_color">#d99536</color>
     <!-- 在线主题 无主题时 系统提示字符颜色 -->
-    <color name="no_resource_text_color">#99bec1c4</color>
+    <color name="no_resource_text_color">#bec1c4</color>
     <!-- 在线主题详情 版本与时间 字符颜色 -->
     <color name="theme_preview_info_title_color">#D8bec1c4</color>
 
@@ -48,14 +48,14 @@
     <!-- 在线壁纸 详情 弹出框中 设计者等细体 字符颜色 -->
     <color name="dialog_text_message_color">#99bec1c4</color>
     <!-- Wallpaper picker title 'recommended' -->
-    <color name="wallpaper_menu_text">#ffffffff</color>
+    <color name="wallpaper_menu_text">#ffffff</color>
 
     <!-- Keep Magazine unlock prompt text colour -->
-    <color name="magazine_tip_color">#ffffffff</color>
+    <color name="magazine_tip_color">#ffffff</color>
     <!-- 杂志锁屏有更新时预览界面 提示标签字符 -->
     <color name="magazine_button_color">#33bec1c4</color>
     <!-- 杂志锁屏更新界面 分类标题 字符 -->
-    <color name="magazine_channel_title_color">#ffffffff</color>
+    <color name="magazine_channel_title_color">#ffffff</color>
     <!-- 杂志锁屏更新界面 分类内容 字符 -->
     <color name="magazine_channel_content_color">#b3ffffff</color>
     <!-- 杂志锁屏更新界面 分类灰色背景 颜色值 -->

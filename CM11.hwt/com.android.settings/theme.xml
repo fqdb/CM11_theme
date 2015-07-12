@@ -1,14 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <hwthemes>
     <!-- Unavailable option colour -->
-    <color name="emui_primary_text_dark_disabled">#323232</color>
+    <color name="emui_primary_text_dark_disabled">#bebebe</color>
     <!-- Pressable text colour -->
     <color name="emui_text_dark">#ffffff</color>
     <!-- Default font colour -->
     <color name="emui_list_primary_default">#ffffff</color>
 
     <!-- Developer options headers -->
-    <!-- Developer options explanations -->
     <color name="category_emotion">#ffffff</color>
 
     <!-- Date and time inside the right side time is unavailable font color -->
