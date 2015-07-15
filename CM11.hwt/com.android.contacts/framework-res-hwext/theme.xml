@@ -23,4 +23,8 @@
 	<!-- Contact picker list text colour -->
 	<color name="emui_text_light">#000000</color>
 	<color name="emui_text_dark">#000000</color>
+	
+	<color name="bright_foreground_emui">#ffbababa</color>
+	<color name="dim_foreground_disabled_emui">#80ffffff</color> 
+    <color name="dim_foreground_emui">#ffffff</color>
 </resources>

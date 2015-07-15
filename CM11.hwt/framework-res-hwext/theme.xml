@@ -3,20 +3,23 @@
     <!-- Privacy protection titles, data traffic management app titles, theme applied-->
     <color name="emui_text_dark">#ff8a8a8a</color>
 
+		<color name="emui_list_primary_default">#000000</color>
+	<color name="emui_list_separator_default">#000000</color>
+	
     <!-- setting sectionlist标题字体 省电管理sectionlist -->
-    <color name="emui_list_separator_default">#ffe3e3e3</color>
-    <!-- setting WLAN界面第一行list字体 蓝牙第一行list 手机管家超级省电settinglist颜色 -->
-    <color name="emui_list_primary_default">#ffffff</color>
+    <color name="emui_list_separator_default">#bebebe</color>
+    <!-- Menu list main option text colour -->
+    <color name="emui_list_primary_default">#000000</color>
     <!-- Settings menu sub text colour -->
-    <color name="emui_secondary_text_dark">#ffbababa</color>
+    <color name="emui_secondary_text_dark">#000000</color>
 	
 	<!-- Popup button color-->
     <color name="emui_button_text_color">#ffffff</color>
     <color name="emui_button_text_disabled">#ffffff</color>
 
     <!-- toolbar字体颜色 日历 主题管理 信息 -->
-    <color name="menuitem_default_checkedcolor">#99ffffff</color>
-    <color name="menuitem_default_uncheckedcolor">#99ffffff</color>
+    <color name="menuitem_default_checkedcolor">#bebebe</color>
+    <color name="menuitem_default_uncheckedcolor">#bebebe</color>
     <!-- Timeline font colour -->
     <color name="emui_time_axis_info_default">#ffffff</color>
     <!-- Pop up box divide colour -->
@@ -35,12 +38,12 @@
     <!-- bluetooth not connected primary text color for disable 10% dark-->
     <color name="emui_primary_text_dark_disabled">#323232</color>
     <!-- sim car unavailable secondary text color for disable 10% dark-->
-    <color name="emui_secondary_text_dark_disabled">#bebebe</color>
+    <color name="emui_secondary_text_dark_disabled">#323232</color>
 
     <!-- language input-->
-    <color name="emui_text_disabled">#aaffffff</color>
+    <color name="emui_text_disabled">#ffffff</color>
     <!-- Warning dialog text colour -->
-    <color name="emui_dialog_title_text_Color">#ffffffff</color>
+    <color name="emui_dialog_title_text_Color">#ffffff</color>
     <!-- Toast notification text colour	-->
     <color name="emui_message_text_color">#ffffff</color>
     <!-- Popup font colour -->
